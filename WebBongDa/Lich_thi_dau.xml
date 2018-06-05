@@ -1,17 +1,123 @@
 ﻿<Lich_thi_dau>
-    <Vong_thi_dau Vong="Bảng"/>
-    <Danh_sach_tran_dau>
-        <Tran Doi_1="Hà Nội T&T" Doi_2="Hòa Phát Hà Nội" Ngay_gio="18/5/2018" Sân="Lạch Tray"/>
-        <Tran Doi_1="Hà Nội T&T" Doi_2="Hòa Phát Hà Nội" Ngay_gio="18/5/2018" Sân="Lạch Tray"/>
-        <Tran Doi_1="Hà Nội T&T" Doi_2="Hòa Phát Hà Nội" Ngay_gio="18/5/2018" Sân="Lạch Tray"/>
-        <Tran Doi_1="Hà Nội T&T" Doi_2="Hòa Phát Hà Nội" Ngay_gio="18/5/2018" Sân="Lạch Tray"/>
-        <Tran Doi_1="Hà Nội T&T" Doi_2="Hòa Phát Hà Nội" Ngay_gio="18/5/2018" Sân="Lạch Tray"/>
-        <Tran Doi_1="Hà Nội T&T" Doi_2="Hòa Phát Hà Nội" Ngay_gio="18/5/2018" Sân="Lạch Tray"/>
-        <Tran Doi_1="Hà Nội T&T" Doi_2="Hòa Phát Hà Nội" Ngay_gio="18/5/2018" Sân="Lạch Tray"/>
-        <Tran Doi_1="Hà Nội T&T" Doi_2="Hòa Phát Hà Nội" Ngay_gio="18/5/2018" Sân="Lạch Tray"/>
-        <Tran Doi_1="Hà Nội T&T" Doi_2="Hòa Phát Hà Nội" Ngay_gio="18/5/2018" Sân="Lạch Tray"/>
-        
-
-    </Danh_sach_tran_dau>
+    <Vong_thi_dau vong="1">
+        <Danh_sach_tran_dau>
+            <Tran Ma_so_tran="V11" Doi_1="Hoàng Anh Gia Lai "Doi_2="Bình Dương" Ngay_gio="10/3/2018" Sân="Pleiku"/>
+            <Tran Ma_so_tran="V12" Doi_1="Quảng Nam "Doi_2="Sài Gòn" Ngay_gio="10/3/2018" Sân="Tam Kỳ"/>
+            <Tran Ma_so_tran="V13" Doi_1="Quảng Ninh "Doi_2="Đà Nẵng" Ngay_gio="10/3/2018" Sân="Cẩm Phả"/>
+            <Tran Ma_so_tran="V14" Doi_1="Nam Định "Doi_2="Cần Thơ" Ngay_gio="10/3/2018" Sân="Thiên Trường"/>
+            <Tran Ma_so_tran="V15" Doi_1="Hà Nội FC "Doi_2="Hải Phòng" Ngay_gio="10/3/2018" Sân="Hàng Đẫy"/>
+            <Tran Ma_so_tran="V16" Doi_1="Khánh Hòa "Doi_2="Thanh Hóa" Ngay_gio="10/3/2018" Sân="19/8"/>
+            <Tran Ma_so_tran="V17" Doi_1="TP.Hồ Chí Minh "Doi_2="Sông Lam Nghệ An" Ngay_gio="10/3/2018" Sân="Thống Nhất"/>
+        </Danh_sach_tran_dau>
+    </Vong_thi_dau>
+    <Vong_thi_dau vong="2">
+        <Danh_sach_tran_dau>
+            <Tran Ma_so_tran="V21" Doi_1="Bình Dương "Doi_2="Nam Định" Ngay_gio="16/3/2018" Sân="Gò Đậu"/>
+            <Tran Ma_so_tran="V22" Doi_1="Cần Thơ "Doi_2="Hà Nội FC" Ngay_gio="16/3/2018" Sân="Cần Thơ"/>
+            <Tran Ma_so_tran="V23" Doi_1="Đà Nẵng "Doi_2="Quảng Nam" Ngay_gio="16/3/2018" Sân="Hòa Xuân"/>
+            <Tran Ma_so_tran="V24" Doi_1="Hải Phòng "Doi_2="Hoàng Anh Gia Lai" Ngay_gio="16/3/2018" Sân="Lạch Tray"/>
+            <Tran Ma_so_tran="V25" Doi_1="Sông Lam Nghệ An "Doi_2="Khánh Hòa" Ngay_gio="16/3/2018" Sân="Vinh"/>
+            <Tran Ma_so_tran="V26" Doi_1="Thanh Hóa "Doi_2="TP.Hồ Chí Minh" Ngay_gio="16/3/2018" Sân="Thanh Hóa"/>
+            <Tran Ma_so_tran="V27" Doi_1="Sài Gòn "Doi_2="Quảng Ninh" Ngay_gio="16/3/2018" Sân="Thống Nhất"/>
+        </Danh_sach_tran_dau>
+    </Vong_thi_dau>
+        <Vong_thi_dau vong="3">
+        <Danh_sach_tran_dau>
+            <Tran Ma_so_tran="V31" Doi_1="Sông Lam Nghệ An "Doi_2="Quảng Ninh" Ngay_gio="22/3/2018" Sân="Vinh"/>
+            <Tran Ma_so_tran="V32" Doi_1="Khánh Hòa "Doi_2="Đà Nẵng" Ngay_gio="22/3/2018" Sân="19/8"/>
+            <Tran Ma_so_tran="V33" Doi_1="Quảng Nam "Doi_2="Thanh Hóa" Ngay_gio="22/3/2018" Sân="Tam Kỳ"/>
+            <Tran Ma_so_tran="V34" Doi_1="Cần Thơ "Doi_2="Bình Dương" Ngay_gio="22/3/2018" Sân="Cần Thơ"/>
+            <Tran Ma_so_tran="V35" Doi_1="Nam Định "Doi_2="Hải Phòng" Ngay_gio="22/3/2018" Sân="Thiên Trường"/>
+            <Tran Ma_so_tran="V36" Doi_1="Sài Gòn "Doi_2="TP.Hồ Chí Minh" Ngay_gio="22/3/2018" Sân="Thống Nhất"/>
+            <Tran Ma_so_tran="V37" Doi_1="Hà Nội FC "Doi_2="Hoàng Anh Gia Lai" Ngay_gio="22/3/2018" Sân="Hàng Đẫy"/>
+        </Danh_sach_tran_dau>
+    </Vong_thi_dau>
+        <Vong_thi_dau vong="4">
+        <Danh_sach_tran_dau>
+            <Tran Ma_so_tran="V41" Doi_1="Quảng Ninh "Doi_2="Quảng Nam" Ngay_gio="1/4/2018" Sân="Cẩm Phả"/>
+            <Tran Ma_so_tran="V42" Doi_1="Hải Phòng "Doi_2="Cần Thơ" Ngay_gio="1/4/2018" Sân="Lạch Tray"/>
+            <Tran Ma_so_tran="V43" Doi_1="Đà Nẵng "Doi_2="Sài Gòn" Ngay_gio="1/4/2018" Sân="Hòa Xuân"/>
+            <Tran Ma_so_tran="V44" Doi_1="Thanh Hóa "Doi_2="Sông Lam Nghệ An" Ngay_gio="1/4/2018" Sân="Thanh Hóa"/>
+            <Tran Ma_so_tran="V45" Doi_1="Bình Dương "Doi_2="Hà Nội FC" Ngay_gio="1/4/2018" Sân="Gò Đậu"/>
+            <Tran Ma_so_tran="V46" Doi_1="TP.Hồ Chí Minh "Doi_2="Khánh Hòa" Ngay_gio="1/4/2018" Sân="Thống Nhất"/>
+            <Tran Ma_so_tran="V47" Doi_1="Hoàng Anh Gia Lai "Doi_2="Nam Định" Ngay_gio="1/4/2018" Sân="Pleiku"/>
+        </Danh_sach_tran_dau>
+    </Vong_thi_dau>
+        <Vong_thi_dau vong="5">
+        <Danh_sach_tran_dau>
+            <Tran Ma_so_tran="V51" Doi_1="Khánh Hòa "Doi_2="Quảng Ninh" Ngay_gio="13/4/2018" Sân="19/8"/>
+            <Tran Ma_so_tran="V52" Doi_1="Đà Nẵng "Doi_2="Hà Nội FC" Ngay_gio="13/4/2018" Sân="Hòa Xuân"/>
+            <Tran Ma_so_tran="V53" Doi_1="Sài Gòn "Doi_2="Hoàng Anh Gia Lai" Ngay_gio="13/4/2018" Sân="Thống Nhất"/>
+            <Tran Ma_so_tran="V54" Doi_1="Nam Định "Doi_2="TP.Hồ Chí Minh" Ngay_gio="13/4/2018" Sân="Thiên Trường"/>
+            <Tran Ma_so_tran="V55" Doi_1="Cần Thơ "Doi_2="Sông Lam Nghệ An" Ngay_gio="13/4/2018" Sân="Cần Thơ"/>
+            <Tran Ma_so_tran="V56" Doi_1="Bình Dương "Doi_2="Thanh Hóa" Ngay_gio="13/4/2018" Sân="Gò Đậu"/>
+            <Tran Ma_so_tran="V57" Doi_1="Hải Phòng "Doi_2="Quảng Nam" Ngay_gio="13/4/2018" Sân="Lạch Tray"/>
+        </Danh_sach_tran_dau>
+    </Vong_thi_dau>
+        <Vong_thi_dau vong="6">
+        <Danh_sach_tran_dau>
+            <Tran Ma_so_tran="V61" Doi_1="Sông Lam Nghệ An "Doi_2="Bình Dương" Ngay_gio="20/4/2018" Sân="Vinh"/>
+            <Tran Ma_so_tran="V62" Doi_1="Thanh Hóa "Doi_2="Cần Thơ" Ngay_gio="20/4/2018" Sân="Thanh Hóa"/>
+            <Tran Ma_so_tran="V63" Doi_1="Hoàng Anh Gia lai "Doi_2="Đà Nẵng" Ngay_gio="20/4/2018" Sân="Pleiku"/>
+            <Tran Ma_so_tran="V64" Doi_1="Quảng Ninh "Doi_2="Nam Định" Ngay_gio="20/4/2018" Sân="Cẩm Phả"/>
+            <Tran Ma_so_tran="V65" Doi_1="Quảng Nam "Doi_2="Khánh Hòa" Ngay_gio="20/4/2018" Sân="Tam Kỳ"/>
+            <Tran Ma_so_tran="V66" Doi_1="TP.Hồ Chí Minh "Doi_2="Hải Phòng" Ngay_gio="20/4/2018" Sân="Thống Nhất"/>
+            <Tran Ma_so_tran="V67" Doi_1="Hà Nội FC "Doi_2="Sài Gòn" Ngay_gio="20/4/2018" Sân="Hàng Đẫy"/>
+        </Danh_sach_tran_dau>
+    </Vong_thi_dau>
+        <Vong_thi_dau vong="7">
+        <Danh_sach_tran_dau>
+            <Tran Ma_so_tran="V71" Doi_1="Sông Lam Nghệ An "Doi_2="Nam Định" Ngay_gio="4/5/2018" Sân="Vinh"/>
+            <Tran Ma_so_tran="V72" Doi_1="Thanh Hóa "Doi_2="Sài Gòn" Ngay_gio="4/5/2018" Sân="Thanh Hóa"/>
+            <Tran Ma_so_tran="V73" Doi_1="Bình Dương "Doi_2="Quảng Nam" Ngay_gio="4/5/2018" Sân="Gò Đậu"/>
+            <Tran Ma_so_tran="V74" Doi_1="Hải Phòng "Doi_2="Đà Nẵng" Ngay_gio="4/5/2018" Sân="Lạch Tray"/>
+            <Tran Ma_so_tran="V75" Doi_1="Cần Thơ "Doi_2="Quảng Ninh" Ngay_gio="4/5/2018" Sân="Cần Thơ"/>
+            <Tran Ma_so_tran="V76" Doi_1="Khánh Hòa "Doi_2="Hoàng Anh Gia Lai" Ngay_gio="4/5/2018" Sân="19/8"/>
+            <Tran Ma_so_tran="V77" Doi_1="TP.Hồ Chí Minh "Doi_2="Hà Nội FC" Ngay_gio="4/5/2018" Sân="Thống Nhất"/>
+        </Danh_sach_tran_dau>
+    </Vong_thi_dau>
+        <Vong_thi_dau vong="8">
+        <Danh_sach_tran_dau>
+            <Tran Ma_so_tran="V81" Doi_1="Sài Gòn "Doi_2="Khánh Hòa" Ngay_gio="18/5/2018" Sân="Thống Nhất"/>
+            <Tran Ma_so_tran="V82" Doi_1="Cần Thơ "Doi_2="Hoàng Anh Gia Lai" Ngay_gio="18/5/2018" Sân="Cần Thơ"/>
+            <Tran Ma_so_tran="V83" Doi_1="Bình Dương "Doi_2="Hải Phòng" Ngay_gio="18/5/2018" Sân="Gò Đậu"/>
+            <Tran Ma_so_tran="V84" Doi_1="Đà Nẵng "Doi_2="TP.Hồ Chí Minh" Ngay_gio="18/5/2018" Sân="Hòa Xuân"/>
+            <Tran Ma_so_tran="V85" Doi_1="Quảng Nam "Doi_2="Sông Lam Nghệ An" Ngay_gio="18/5/2018" Sân="Tam Kỳ"/>
+            <Tran Ma_so_tran="V86" Doi_1="Quảng Ninh "Doi_2="Thanh Hóa" Ngay_gio="18/5/2018" Sân="Cẩm Phả"/>
+            <Tran Ma_so_tran="V87" Doi_1="Nam Định "Doi_2="Hà Nội FC" Ngay_gio="18/5/2018" Sân="Thiên Trường"/>
+        </Danh_sach_tran_dau>
+    </Vong_thi_dau>
+        <Vong_thi_dau vong="9">
+        <Danh_sach_tran_dau>
+            <Tran Ma_so_tran="V91" Doi_1="Đà Nẵng "Doi_2="Bình Dương" Ngay_gio="25/5/2018" Sân="Hòa Xuân"/>
+            <Tran Ma_so_tran="V92" Doi_1="Quảng Ninh "Doi_2="TP.Hồ Chí Minh" Ngay_gio="25/5/2018" Sân="Cẩm Phả"/>
+            <Tran Ma_so_tran="V93" Doi_1="Sài Gòn "Doi_2="Cần Thơ" Ngay_gio="25/5/2018" Sân="Thống Nhất"/>
+            <Tran Ma_so_tran="V94" Doi_1="Hải Phòng "Doi_2="Khánh Hòa" Ngay_gio="25/5/2018" Sân="Lạch Tray"/>
+            <Tran Ma_so_tran="V95" Doi_1="Hoàng Anh Gia Lai "Doi_2="Sông Lam Nghệ An" Ngay_gio="25/5/2018" Sân="Pleiku"/>
+            <Tran Ma_so_tran="V96" Doi_1="Quảng Nam "Doi_2="Nam Định" Ngay_gio="25/5/2018" Sân="Tam Kỳ"/>
+            <Tran Ma_so_tran="V97" Doi_1="Hà Nội FC "Doi_2="Thanh Hóa" Ngay_gio="25/5/2018" Sân="Hàng Đẫy"/>
+        </Danh_sach_tran_dau>
+    </Vong_thi_dau>
+        <Vong_thi_dau vong="10">
+        <Danh_sach_tran_dau>
+            <Tran Ma_so_tran="V101" Doi_1="Cần Thơ "Doi_2="Đà Nẵng" Ngay_gio="29/5/2018" Sân="Cần Thơ"/>
+            <Tran Ma_so_tran="V102" Doi_1="Bình Dương "Doi_2="Sài Gòn" Ngay_gio="29/5/2018" Sân="Gò Đậu"/>
+            <Tran Ma_so_tran="V103" Doi_1="Khánh Hòa "Doi_2="Nam Định" Ngay_gio="29/5/2018" Sân="19/8"/>
+            <Tran Ma_so_tran="V104" Doi_1="Hải Phòng "Doi_2="Quảng Ninh" Ngay_gio="29/5/2018" Sân="Lạch Tray"/>
+            <Tran Ma_so_tran="V105" Doi_1="Thanh Hóa "Doi_2="Hoàng Anh Gia Lai" Ngay_gio="29/5/2018" Sân="Thanh Hóa"/>
+            <Tran Ma_so_tran="V106" Doi_1="TP.Hồ Chí Minh "Doi_2="Quảng Nam" Ngay_gio="29/5/2018" Sân="Thống Nhất"/>
+            <Tran Ma_so_tran="V107" Doi_1="Sông Lam Nghệ An "Doi_2="Hà Nội FC" Ngay_gio="29/5/2018" Sân="Vinh"/>
+        </Danh_sach_tran_dau>
+    </Vong_thi_dau>
+        <Vong_thi_dau vong="11">
+        <Danh_sach_tran_dau>
+            <Tran Ma_so_tran="V111" Doi_1="Đà Nẵng "Doi_2="Sông Lam Nghệ An" Ngay_gio="3/6/2018" Sân="Hòa Xuân"/>
+            <Tran Ma_so_tran="V112" Doi_1="Quảng Nam "Doi_2="Cần Thơ" Ngay_gio="3/6/2018" Sân="Tam Kỳ"/>
+            <Tran Ma_so_tran="V113" Doi_1="Hoàng Anh Gia Lai "Doi_2="TP.Hồ Chí Minh" Ngay_gio="3/6/2018" Sân="Pleiku"/>
+            <Tran Ma_so_tran="V114" Doi_1="Quảng Ninh "Doi_2="Bình Dương" Ngay_gio="3/6/2018" Sân="Cẩm Phả"/>
+            <Tran Ma_so_tran="V115" Doi_1="Sài Gòn "Doi_2="Hải Phòng" Ngay_gio="3/6/2018" Sân="Thống Nhất"/>
+            <Tran Ma_so_tran="V116" Doi_1="Nam Định "Doi_2="Thanh Hóa" Ngay_gio="3/6/2018" Sân="Thiên Trường"/>
+            <Tran Ma_so_tran="V117" Doi_1="Hà Nội FC "Doi_2="Khánh Hòa" Ngay_gio="3/6/2018" Sân="Hàng Đẫy"/>
+        </Danh_sach_tran_dau>
+    </Vong_thi_dau>
 </Lich_thi_dau>
-Tuan dep trai

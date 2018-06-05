@@ -1,17 +1,72 @@
 <Ho_so_doi_bong>
-    <Doi San_nha="Lạch Tray" Ten_doi="Manchester United">
+    <Doi Ma_so_doi="HAGL" Ten="Hoàng Anh Gia Lai"   San_nha="Pleiku">
         <Danh_sach_cau_thu>
-            <Cau_thu Ten="Vũ Đình Thăng" Ngay_sinh="05-09-1996" Loai_cau_thu="Attacker" Ghi_chu="Thiên tài bẩm sinh, nỗ lực hơn người"/>
-            <Cau_thu Ten="Nguyễn Đặng Thành Long" Ngay_sinh="05-02-1996" Loai_cau_thu="Attacker" Ghi_chu="Tốc độ tốt, dứt điểm tốt"/>
-            <Cau_thu Ten="Vũ Đình Thăng" Ngay_sinh="05-09-1996" Loai_cau_thu="Attacker" Ghi_chu="Thiên tài bẩm sinh, nỗ lực hơn người"/>
-            <Cau_thu Ten="Vũ Đình Thăng" Ngay_sinh="05-09-1996" Loai_cau_thu="Attacker" Ghi_chu="Thiên tài bẩm sinh, nỗ lực hơn người"/>
-            <Cau_thu Ten="Vũ Đình Thăng" Ngay_sinh="05-09-1996" Loai_cau_thu="Attacker" Ghi_chu="Thiên tài bẩm sinh, nỗ lực hơn người"/>
-            <Cau_thu Ten="Vũ Đình Thăng" Ngay_sinh="05-09-1996" Loai_cau_thu="Attacker" Ghi_chu="Thiên tài bẩm sinh, nỗ lực hơn người"/>
-            <Cau_thu Ten="Vũ Đình Thăng" Ngay_sinh="05-09-1996" Loai_cau_thu="Attacker" Ghi_chu="Thiên tài bẩm sinh, nỗ lực hơn người"/>
-            <Cau_thu Ten="Vũ Đình Thăng" Ngay_sinh="05-09-1996" Loai_cau_thu="Attacker" Ghi_chu="Thiên tài bẩm sinh, nỗ lực hơn người"/>
-            <Cau_thu Ten="Vũ Đình Thăng" Ngay_sinh="05-09-1996" Loai_cau_thu="Attacker" Ghi_chu="Thiên tài bẩm sinh, nỗ lực hơn người"/>
-            <Cau_thu Ten="Vũ Đình Thăng" Ngay_sinh="05-09-1996" Loai_cau_thu="Attacker" Ghi_chu="Thiên tài bẩm sinh, nỗ lực hơn người"/>
-            <Cau_thu Ten="Vũ Đình Thăng" Ngay_sinh="05-09-1996" Loai_cau_thu="Attacker" Ghi_chu="Thiên tài bẩm sinh, nỗ lực hơn người"/>
+
+        </Danh_sach_cau_thu>
+    </Doi>
+        <Doi Ma_so_doi="QN" Ten="Quảng Nam"   San_nha="Tam Kỳ">
+        <Danh_sach_cau_thu>
+
+        </Danh_sach_cau_thu>
+    </Doi>
+    <Doi Ma_so_doi="TQN" Ten="Than Quảng Ninh"   San_nha="Cẩm Phả">
+        <Danh_sach_cau_thu>
+
+        </Danh_sach_cau_thu>
+    </Doi>
+    <Doi Ma_so_doi="ND" Ten="Nam Định"   San_nha="Thiên Trường">
+        <Danh_sach_cau_thu>
+
+        </Danh_sach_cau_thu>
+    </Doi>
+    <Doi Ma_so_doi="HN" Ten="Hà Nội FC"   San_nha="Hàng Đẫy">
+        <Danh_sach_cau_thu>
+
+        </Danh_sach_cau_thu>
+    </Doi>
+    <Doi Ma_so_doi="KH" Ten="Khánh Hòa"   San_nha="19/8">
+        <Danh_sach_cau_thu>
+
+        </Danh_sach_cau_thu>
+    </Doi>
+    <Doi Ma_so_doi="HCM" Ten="TP.Hồ Chí Minh"   San_nha="Thống Nhất">
+        <Danh_sach_cau_thu>
+
+        </Danh_sach_cau_thu>
+    </Doi>
+    <Doi Ma_so_doi="BD" Ten="Bình Dương"   San_nha="Gò Đậu">
+        <Danh_sach_cau_thu>
+
+        </Danh_sach_cau_thu>
+    </Doi>
+    <Doi Ma_so_doi="CT" Ten="Cần Thơ"   San_nha="Cần Thơ">
+        <Danh_sach_cau_thu>
+
+        </Danh_sach_cau_thu>
+    </Doi>
+    <Doi Ma_so_doi="DN" Ten="Đà Nẵng"   San_nha="Hòa Xuân">
+        <Danh_sach_cau_thu>
+
+        </Danh_sach_cau_thu>
+    </Doi>
+    <Doi Ma_so_doi="HP" Ten="Hải Phòng"   San_nha="Lạch Tray">
+        <Danh_sach_cau_thu>
+
+        </Danh_sach_cau_thu>
+    </Doi>
+    <Doi Ma_so_doi="SLNA" Ten="Sông Lam Nghệ An"   San_nha="Vinh">
+        <Danh_sach_cau_thu>
+
+        </Danh_sach_cau_thu>
+    </Doi>
+    <Doi Ma_so_doi="TH" Ten="Thanh Hóa"   San_nha="Thanh Hóa">
+        <Danh_sach_cau_thu>
+
+        </Danh_sach_cau_thu>
+    </Doi>
+    <Doi Ma_so_doi="SG" Ten="Sài Gòn"   San_nha="Thống Nhất">
+        <Danh_sach_cau_thu>
+
         </Danh_sach_cau_thu>
     </Doi>
 </Ho_so_doi_bong>

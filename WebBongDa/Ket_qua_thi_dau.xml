@@ -1,6 +1,41 @@
 <Ket_qua_thi_dau>
-    <Vong_thi_dau Vong="Bảng"/>
-    <Danh_sach_tran_dau>
-        <Tran Doi_1="Hà Nội T&T" Doi_2="Hòa Phát Hà Nội" Ngay_gio="18/5/2018" San="Lạch Tray" Ti_so="1-0"/>
-    </Danh_sach_tran_dau>
+    <Vong_thi_dau vong="1">
+        <Danh_sach_tran_dau>
+            <Tran Ma_so_tran="V11" Ty_so="">
+                <Danh_sach_ghi_ban>
+                    <Cau_thu Ma_so_cau_thu=""   Ma_so_doi=""    Loai_ban_thang=""   Thoi_Diem=""/>
+                </Danh_sach_ghi_ban>
+            </Tran>
+            <Tran Ma_so_tran="V12" Ty_so="">
+                <Danh_sach_ghi_ban>
+                    <Cau_thu Ma_so_cau_thu=""   Ma_so_doi=""    Loai_ban_thang=""   Thoi_Diem=""/>
+                </Danh_sach_ghi_ban>
+            </Tran>
+            <Tran Ma_so_tran="V13" Ty_so="">
+                <Danh_sach_ghi_ban>
+                    <Cau_thu Ma_so_cau_thu=""   Ma_so_doi=""    Loai_ban_thang=""   Thoi_Diem=""/>
+                </Danh_sach_ghi_ban>
+            </Tran>
+            <Tran Ma_so_tran="V14" Ty_so="">
+                <Danh_sach_ghi_ban>
+                    <Cau_thu Ma_so_cau_thu=""   Ma_so_doi=""    Loai_ban_thang=""   Thoi_Diem=""/>
+                </Danh_sach_ghi_ban>
+            </Tran>
+            <Tran Ma_so_tran="V15" Ty_so="">
+                <Danh_sach_ghi_ban>
+                    <Cau_thu Ma_so_cau_thu=""   Ma_so_doi=""    Loai_ban_thang=""   Thoi_Diem=""/>
+                </Danh_sach_ghi_ban>
+            </Tran>
+            <Tran Ma_so_tran="V16" Ty_so="">
+                <Danh_sach_ghi_ban>
+                    <Cau_thu Ma_so_cau_thu=""   Ma_so_doi=""    Loai_ban_thang=""   Thoi_Diem=""/>
+                </Danh_sach_ghi_ban>
+            </Tran>
+            <Tran Ma_so_tran="V17" Ty_so="">
+                <Danh_sach_ghi_ban>
+                    <Cau_thu Ma_so_cau_thu=""   Ma_so_doi=""    Loai_ban_thang=""   Thoi_Diem=""/>
+                </Danh_sach_ghi_ban>
+            </Tran>
+        </Danh_sach_tran_dau>
+    </Vong_thi_dau>
 </Ket_qua_thi_dau>

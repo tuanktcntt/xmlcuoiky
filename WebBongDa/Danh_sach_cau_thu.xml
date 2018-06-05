@@ -1,3 +1,386 @@
 <Danh_sach_cau_thu>
-    <Cau_thu Ten="Vu Dinh Thang" Doi="Ha Noi ACB" Loai_cau_thu="Attacker" Tong_so_ban_thang="12"/>
+    <Cau_thu Ma_so_doi="BD" Ma_so_cau_thu="BD1" Ten="Bùi Tấn Trường" Ngay_sinh="1986" Loai_cau_thu="Thủ môn" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="BD" Ma_so_cau_thu="BD2" Ten="Nguyễn Hùng Thiện Đức" Ngay_sinh="1999" Loai_cau_thu="Hậu vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="BD" Ma_so_cau_thu="BD3" Ten="Nguyễn Thanh Thảo" Ngay_sinh="1995" Loai_cau_thu="Hậu vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="BD" Ma_so_cau_thu="BD4" Ten="Hồ Tấn Tài" Ngay_sinh="1997" Loai_cau_thu="Hậu vệ" Tong_so_ban_thang="1"/>
+    <Cau_thu Ma_so_doi="BD" Ma_so_cau_thu="BD5" Ten="Nguyễn Xuân Luân" Ngay_sinh="1987" Loai_cau_thu="Hậu vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="BD" Ma_so_cau_thu="BD6" Ten="Quế Ngọc Mạnh" Ngay_sinh="1990" Loai_cau_thu="Hậu vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="BD" Ma_so_cau_thu="BD7" Ten="Nguyễn Anh Tài" Ngay_sinh="1996" Loai_cau_thu="Hậu vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="BD" Ma_so_cau_thu="BD8" Ten="Võ Ngọc Tỉnh" Ngay_sinh="1997" Loai_cau_thu="Tiền vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="BD" Ma_so_cau_thu="BD9" Ten="Romario Kortzong" Ngay_sinh="" Loai_cau_thu="Tiền đạo" Tong_so_ban_thang="1"/>
+    <Cau_thu Ma_so_doi="BD" Ma_so_cau_thu="BD10" Ten="Nguyễn Anh Đức" Ngay_sinh="1985" Loai_cau_thu="Tiền đạo" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="BD" Ma_so_cau_thu="BD11" Ten="Trương Dũ Đạt" Ngay_sinh="1997" Loai_cau_thu="Hậu vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="BD" Ma_so_cau_thu="BD12" Ten="Lê Tấn Tài" Ngay_sinh="1984" Loai_cau_thu="Tiền vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="BD" Ma_so_cau_thu="BD13" Ten="Nguyễn Thanh Long" Ngay_sinh="1993" Loai_cau_thu="Hậu vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="BD" Ma_so_cau_thu="BD14" Ten="Nguyễn Đoàn Trung Nhân" Ngay_sinh="1998" Loai_cau_thu="Tiền vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="BD" Ma_so_cau_thu="BD15" Ten="Tống Anh Tỷ" Ngay_sinh="1997" Loai_cau_thu="Tiền vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="BD" Ma_so_cau_thu="BD16" Ten="Trần Hoài Nam" Ngay_sinh="1990" Loai_cau_thu="Tiền vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="BD" Ma_so_cau_thu="BD17" Ten="Trương Huỳnh Phú" Ngay_sinh="1988" Loai_cau_thu="Hậu vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="BD" Ma_so_cau_thu="BD18" Ten="Nguyễn Trung Tín" Ngay_sinh="1991" Loai_cau_thu="Hậu vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="BD" Ma_so_cau_thu="BD19" Ten="Nguyễn Tiến Linh" Ngay_sinh="1997" Loai_cau_thu="Tiền đạo" Tong_so_ban_thang="6"/>
+    <Cau_thu Ma_so_doi="BD" Ma_so_cau_thu="BD20" Ten="Nguyễn Trọng Huy" Ngay_sinh="1997" Loai_cau_thu="Tiền vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="BD" Ma_so_cau_thu="BD21" Ten="Đoàn Tuấn Cảnh" Ngay_sinh="1998" Loai_cau_thu="Tiền vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="BD" Ma_so_cau_thu="BD22" Ten="Trần Đức Cường" Ngay_sinh="1985" Loai_cau_thu="Thủ môn" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="BD" Ma_so_cau_thu="BD23" Ten="Alexandros" Ngay_sinh="" Loai_cau_thu="Tiền đạo" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="BD" Ma_so_cau_thu="BD24" Ten="Hồ Sỹ Giáp" Ngay_sinh="1994" Loai_cau_thu="Tiền đạo" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="BD" Ma_so_cau_thu="BD25" Ten="Tô Văn Vũ" Ngay_sinh="1993" Loai_cau_thu="Hậu vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="BD" Ma_so_cau_thu="BD26" Ten="Đinh Hoàng Max" Ngay_sinh="1986" Loai_cau_thu="Tiền vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="BD" Ma_so_cau_thu="BD27" Ten="Nguyễn Thanh Tuấn" Ngay_sinh="1997" Loai_cau_thu="Thủ môn" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="TH" Ma_so_cau_thu="TH1" Ten=" Nguyễn Thanh Thắng" Ngay_sinh="1988" Loai_cau_thu="Thủ môn" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="TH" Ma_so_cau_thu="TH2" Ten=" Hoàng Đình Tùng" Ngay_sinh="1988" Loai_cau_thu="Tiền vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="TH" Ma_so_cau_thu="TH3" Ten=" Trần Đình Đồng" Ngay_sinh="1987" Loai_cau_thu="Hậu vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="TH" Ma_so_cau_thu="TH4" Ten=" Lục Xuân Hưng" Ngay_sinh="1995" Loai_cau_thu="Trung vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="TH" Ma_so_cau_thu="TH5" Ten=" Nguyễn Minh Tùng" Ngay_sinh="1992" Loai_cau_thu="Trung vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="TH" Ma_so_cau_thu="TH6" Ten=" Vũ Minh Tuấn" Ngay_sinh="1990" Loai_cau_thu="Tiền vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="TH" Ma_so_cau_thu="TH7" Ten=" Ngô Hoàng Thịnh" Ngay_sinh="1992" Loai_cau_thu="Tiền vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="TH" Ma_so_cau_thu="TH8" Ten=" Nguyễn Trọng Hoàng" Ngay_sinh="1989" Loai_cau_thu="Tiền vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="TH" Ma_so_cau_thu="TH9" Ten=" Hoàng Văn Bình" Ngay_sinh="1989" Loai_cau_thu="Tiền vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="TH" Ma_so_cau_thu="TH10" Ten=" Lê Văn Thắng" Ngay_sinh="1990" Loai_cau_thu="Tiền vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="TH" Ma_so_cau_thu="TH11" Ten=" Trịnh Đình Hùng" Ngay_sinh="1995" Loai_cau_thu="Hậu vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="TH" Ma_so_cau_thu="TH12" Ten=" Đinh Tiến Thành" Ngay_sinh="1991" Loai_cau_thu="Trung vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="TH" Ma_so_cau_thu="TH13" Ten=" Nguyễn Xuân Thành" Ngay_sinh="1985" Loai_cau_thu="Hậu vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="TH" Ma_so_cau_thu="TH14" Ten=" Mai Tiến Thành" Ngay_sinh="1986" Loai_cau_thu="Hậu vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="TH" Ma_so_cau_thu="TH15" Ten=" Lê Thanh Bình" Ngay_sinh="1995" Loai_cau_thu="Tiền đạo" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="TH" Ma_so_cau_thu="TH16" Ten=" Lê Quốc Phương" Ngay_sinh="1991" Loai_cau_thu="Tiền vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="TH" Ma_so_cau_thu="TH17" Ten="Pape Omar Faye" Ngay_sinh="1987" Loai_cau_thu="Tiền đạo" Tong_so_ban_thang="5"/>
+    <Cau_thu Ma_so_doi="TH" Ma_so_cau_thu="TH18" Ten=" Vũ Xuân Cường" Ngay_sinh="1992" Loai_cau_thu="Hậu vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="TH" Ma_so_cau_thu="TH19" Ten=" Bùi Văn Hiếu" Ngay_sinh="1989" Loai_cau_thu="Tiền vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="TH" Ma_so_cau_thu="TH20" Ten=" Lê Văn Đại" Ngay_sinh="1996" Loai_cau_thu="Trung vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="TH" Ma_so_cau_thu="TH21" Ten=" Trịnh Quang Vinh" Ngay_sinh="1987" Loai_cau_thu="Tiền vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="TH" Ma_so_cau_thu="TH22" Ten=" Phạm Văn Nam" Ngay_sinh="1992" Loai_cau_thu="Trung vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="TH" Ma_so_cau_thu="TH23" Ten="Ryutaro Karube" Ngay_sinh="1992" Loai_cau_thu="Tiền vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="TH" Ma_so_cau_thu="TH24" Ten="Ofere Edward Junior" Ngay_sinh="1986" Loai_cau_thu="Tiền đạo" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="TH" Ma_so_cau_thu="TH25" Ten=" Bùi Tiến Dũng" Ngay_sinh="1997" Loai_cau_thu="Thủ môn" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="TH" Ma_so_cau_thu="TH26" Ten=" Nguyễn Thế Dương" Ngay_sinh="1991" Loai_cau_thu="Tiền vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="TH" Ma_so_cau_thu="TH27" Ten=" Trần Bửu Ngọc" Ngay_sinh="1991" Loai_cau_thu="Thủ môn" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="TH" Ma_so_cau_thu="TH28" Ten="Nguyen Van Bakel" Ngay_sinh="1983" Loai_cau_thu="Trung vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="HN" Ma_so_cau_thu="HN1" Ten=" Trần Anh Đức" Ngay_sinh="1991" Loai_cau_thu="Thủ môn" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="HN" Ma_so_cau_thu="HN2" Ten=" Nguyễn Đại Đồng" Ngay_sinh="1986" Loai_cau_thu="Hậu vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="HN" Ma_so_cau_thu="HN3" Ten=" Nguyễn Văn Dũng" Ngay_sinh="1994" Loai_cau_thu="Hậu vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="HN" Ma_so_cau_thu="HN4" Ten=" Đoàn Văn Hậu" Ngay_sinh="1999" Loai_cau_thu="Hậu vệ" Tong_so_ban_thang="1"/>
+    <Cau_thu Ma_so_doi="HN" Ma_so_cau_thu="HN5" Ten=" Đậu Văn Toàn" Ngay_sinh="1997" Loai_cau_thu="Tiền vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="HN" Ma_so_cau_thu="HN6" Ten="Moses Oloya" Ngay_sinh="1992" Loai_cau_thu="Tiền vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="HN" Ma_so_cau_thu="HN7" Ten=" Phạm Văn Thành" Ngay_sinh="1994" Loai_cau_thu="Tiền vệ" Tong_so_ban_thang="1"/>
+    <Cau_thu Ma_so_doi="HN" Ma_so_cau_thu="HN8" Ten=" Nguyễn Văn Quyết" Ngay_sinh="1991" Loai_cau_thu="Tiền vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="HN" Ma_so_cau_thu="HN9" Ten=" Phạm Thành Lương" Ngay_sinh="1988" Loai_cau_thu="Tiền vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="HN" Ma_so_cau_thu="HN10" Ten=" Trần Văn Kiên" Ngay_sinh="1996" Loai_cau_thu="Hậu vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="HN" Ma_so_cau_thu="HN11" Ten=" Phạm Đức Huy" Ngay_sinh="1995" Loai_cau_thu="Tiền vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="HN" Ma_so_cau_thu="HN12" Ten=" Nguyễn Thành Chung" Ngay_sinh="1997" Loai_cau_thu="Trung vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="HN" Ma_so_cau_thu="HN13" Ten=" Nguyễn Quang Hải" Ngay_sinh="1997" Loai_cau_thu="Tiền vệ" Tong_so_ban_thang="1"/>
+    <Cau_thu Ma_so_doi="HN" Ma_so_cau_thu="HN14" Ten=" Phùng Viết Trường" Ngay_sinh="1998" Loai_cau_thu="Tiền vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="HN" Ma_so_cau_thu="HN15" Ten=" Trần Đình Trọng" Ngay_sinh="1997" Loai_cau_thu="Trung vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="HN" Ma_so_cau_thu="HN16" Ten=" Nguyễn Như Tuấn" Ngay_sinh="1995" Loai_cau_thu="Tiền vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="HN" Ma_so_cau_thu="HN17" Ten=" Đỗ Duy Mạnh" Ngay_sinh="1996" Loai_cau_thu="Tiền vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="HN" Ma_so_cau_thu="HN18" Ten=" Ngân Văn Đại" Ngay_sinh="1992" Loai_cau_thu="Tiền đạo" Tong_so_ban_thang="1"/>
+    <Cau_thu Ma_so_doi="HN" Ma_so_cau_thu="HN19" Ten=" Nguyễn Văn Công" Ngay_sinh="1992" Loai_cau_thu="Thủ môn" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="HN" Ma_so_cau_thu="HN20" Ten=" Phí Minh Long" Ngay_sinh="1995" Loai_cau_thu="Thủ môn" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="HN" Ma_so_cau_thu="HN21" Ten=" Nguyễn Hồng Sơn" Ngay_sinh="2000" Loai_cau_thu="Tiền vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="HN" Ma_so_cau_thu="HN22" Ten=" Trương Văn Thái Quý" Ngay_sinh="1997" Loai_cau_thu="Tiền vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="HN" Ma_so_cau_thu="HN23" Ten=" Đỗ Hùng Dũng" Ngay_sinh="1993" Loai_cau_thu="Tiền vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="HN" Ma_so_cau_thu="HN24" Ten=" Đào Duy Khánh" Ngay_sinh="1994" Loai_cau_thu="Hậu vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="HN" Ma_so_cau_thu="HN25" Ten="Oseni Ganiyu Bolaji" Ngay_sinh="1991" Loai_cau_thu="Tiền đạo" Tong_so_ban_thang="12"/>
+    <Cau_thu Ma_so_doi="HN" Ma_so_cau_thu="HN26" Ten=" Nguyễn Mạnh Tiến" Ngay_sinh="1997" Loai_cau_thu="Tiền vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="HN" Ma_so_cau_thu="HN27" Ten=" Hồ Minh Dĩ" Ngay_sinh="1998" Loai_cau_thu="Tiền vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="HN" Ma_so_cau_thu="HN28" Ten=" Đặng Văn Tới" Ngay_sinh="1999" Loai_cau_thu="Hậu vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="HP" Ma_so_cau_thu="HP1" Ten=" Đặng Văn Lâm" Ngay_sinh="1993" Loai_cau_thu="Thủ môn" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="HP" Ma_so_cau_thu="HP2" Ten=" Nguyễn Anh Hùng" Ngay_sinh="1992" Loai_cau_thu="Hậu vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="HP" Ma_so_cau_thu="HP3" Ten=" Nguyễn Đình Tài" Ngay_sinh="1995" Loai_cau_thu="Tiền vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="HP" Ma_so_cau_thu="HP4" Ten=" Nguyễn Văn Đức" Ngay_sinh="1993" Loai_cau_thu="Hậu vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="HP" Ma_so_cau_thu="HP5" Ten=" Nguyễn Hữu Phúc" Ngay_sinh="1992" Loai_cau_thu="Hậu vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="HP" Ma_so_cau_thu="HP6" Ten=" Trịnh Văn Lợi" Ngay_sinh="1995" Loai_cau_thu="Hậu vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="HP" Ma_so_cau_thu="HP7" Ten=" Nguyễn Đình Bảo" Ngay_sinh="1991" Loai_cau_thu="Tiền đạo" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="HP" Ma_so_cau_thu="HP8" Ten="Andre Diego Fagan" Ngay_sinh="1987" Loai_cau_thu="Tiền đạo" Tong_so_ban_thang="5"/>
+    <Cau_thu Ma_so_doi="HP" Ma_so_cau_thu="HP9" Ten="Errol Anthony Stevens" Ngay_sinh="1986" Loai_cau_thu="Tiền đạo" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="HP" Ma_so_cau_thu="HP10" Ten=" Nguyễn Cảnh Dương" Ngay_sinh="1990" Loai_cau_thu="Tiền vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="HP" Ma_so_cau_thu="HP11" Ten=" Diệp Hoài Xuân" Ngay_sinh="1992" Loai_cau_thu="Trung vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="HP" Ma_so_cau_thu="HP12" Ten=" Doãn Ngọc Tân" Ngay_sinh="1994" Loai_cau_thu="Tiền vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="HP" Ma_so_cau_thu="HP13" Ten=" Lâm Quí" Ngay_sinh="1997" Loai_cau_thu="Tiền vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="HP" Ma_so_cau_thu="HP14" Ten=" Đặng Quang Huy" Ngay_sinh="1992" Loai_cau_thu="" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="HP" Ma_so_cau_thu="HP15" Ten=" Lê Văn Phú" Ngay_sinh="1983" Loai_cau_thu="Trung vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="HP" Ma_so_cau_thu="HP16" Ten=" Vương Quốc Trung" Ngay_sinh="1990" Loai_cau_thu="Tiền vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="HP" Ma_so_cau_thu="HP17" Ten=" Nguyễn Vương Vũ" Ngay_sinh="1992" Loai_cau_thu="Tiền đạo" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="HP" Ma_so_cau_thu="HP18" Ten=" Lê Phạm Thành Long" Ngay_sinh="1996" Loai_cau_thu="Tiền vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="HP" Ma_so_cau_thu="HP19" Ten=" Nguyễn Việt Phong" Ngay_sinh="1993" Loai_cau_thu="Tiền đạo" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="HP" Ma_so_cau_thu="HP20" Ten=" Lê Văn Sáu" Ngay_sinh="1991" Loai_cau_thu="Hậu vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="HP" Ma_so_cau_thu="HP21" Ten=" Lê Xuân Hùng" Ngay_sinh="1991" Loai_cau_thu="Tiền vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="HP" Ma_so_cau_thu="HP22" Ten=" Nguyễn Vũ Hoàng Dương" Ngay_sinh="1992" Loai_cau_thu="Tiền vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="HP" Ma_so_cau_thu="HP23" Ten=" Nguyễn Văn Phú" Ngay_sinh="1992" Loai_cau_thu="Tiền vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="HP" Ma_so_cau_thu="HP24" Ten=" Phạm Hoài Dương" Ngay_sinh="1994" Loai_cau_thu="Hậu vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="HP" Ma_so_cau_thu="HP25" Ten=" Nguyễn Văn Việt" Ngay_sinh="1994" Loai_cau_thu="Hậu vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="HP" Ma_so_cau_thu="HP26" Ten=" Nguyễn Văn Phong" Ngay_sinh="1987" Loai_cau_thu="Thủ môn" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="HP" Ma_so_cau_thu="HP27" Ten=" Phạm Xuân Luân" Ngay_sinh="1994" Loai_cau_thu="Thủ môn" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="HP" Ma_so_cau_thu="HP28" Ten=" Lương Hoàng Nam" Ngay_sinh="1997" Loai_cau_thu="Tiền vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="HP" Ma_so_cau_thu="HP29" Ten=" Nguyễn Thành Đồng" Ngay_sinh="1995" Loai_cau_thu="Tiền vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="HAGL" Ma_so_cau_thu="HAGL1" Ten=" Lê Văn Sơn" Ngay_sinh="1996" Loai_cau_thu="Hậu vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="HAGL" Ma_so_cau_thu="HAGL2" Ten=" Phạm Đăng Tuấn" Ngay_sinh="1995" Loai_cau_thu="Hậu vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="HAGL" Ma_so_cau_thu="HAGL3" Ten=" Trần Hữu Đông Triều" Ngay_sinh="1995" Loai_cau_thu="Hậu vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="HAGL" Ma_so_cau_thu="HAGL4" Ten=" Lương Xuân Trường" Ngay_sinh="1995" Loai_cau_thu="Tiền vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="HAGL" Ma_so_cau_thu="HAGL5" Ten=" Nguyễn Phong Hồng Duy" Ngay_sinh="1996" Loai_cau_thu="Tiền vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="HAGL" Ma_so_cau_thu="HAGL6" Ten=" Trần Minh Vương" Ngay_sinh="1995" Loai_cau_thu="Tiền vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="HAGL" Ma_so_cau_thu="HAGL7" Ten=" Nguyễn Văn Toàn" Ngay_sinh="1996" Loai_cau_thu="Tiền đạo" Tong_so_ban_thang="1"/>
+    <Cau_thu Ma_so_doi="HAGL" Ma_so_cau_thu="HAGL8" Ten=" Nguyễn Công Phượng" Ngay_sinh="1995" Loai_cau_thu="Tiền đạo" Tong_so_ban_thang="4"/>
+    <Cau_thu Ma_so_doi="HAGL" Ma_so_cau_thu="HAGL9" Ten="Gordon Rimario Allando" Ngay_sinh="1994" Loai_cau_thu="Tiền đạo" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="HAGL" Ma_so_cau_thu="HAGL10" Ten=" Đinh Thanh Bình" Ngay_sinh="1998" Loai_cau_thu="Tiền đạo" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="HAGL" Ma_so_cau_thu="HAGL11" Ten=" Vũ Văn Thanh" Ngay_sinh="1996" Loai_cau_thu="Tiền vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="HAGL" Ma_so_cau_thu="HAGL12" Ten=" Kim Jinseo" Ngay_sinh="1994" Loai_cau_thu="" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="HAGL" Ma_so_cau_thu="HAGL13" Ten=" Phạm Văn Tiến" Ngay_sinh="1993" Loai_cau_thu="Thủ môn" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="HAGL" Ma_so_cau_thu="HAGL14" Ten=" Châu Ngọc Quang" Ngay_sinh="1996" Loai_cau_thu="Tiền vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="HAGL" Ma_so_cau_thu="HAGL15" Ten=" Rmah Sươ" Ngay_sinh="1996" Loai_cau_thu="Thủ môn" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="HAGL" Ma_so_cau_thu="HAGL16" Ten=" Hoàng Thanh Tùng" Ngay_sinh="1996" Loai_cau_thu="Tiền vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="HAGL" Ma_so_cau_thu="HAGL17" Ten=" Nguyễn Tuấn Anh" Ngay_sinh="1995" Loai_cau_thu="Tiền vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="HAGL" Ma_so_cau_thu="HAGL18" Ten=" Nguyễn Tăng Tiến" Ngay_sinh="1994" Loai_cau_thu="Hậu vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="HAGL" Ma_so_cau_thu="HAGL19" Ten=" A Sân" Ngay_sinh="1996" Loai_cau_thu="Hậu vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="HAGL" Ma_so_cau_thu="HAGL20" Ten=" Lê Đức Lương" Ngay_sinh="1994" Loai_cau_thu="Hậu vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="HAGL" Ma_so_cau_thu="HAGL21" Ten=" A Hoàng" Ngay_sinh="1995" Loai_cau_thu="Hậu vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="HAGL" Ma_so_cau_thu="HAGL22" Ten=" Nguyễn Hữu Anh Tài" Ngay_sinh="1996" Loai_cau_thu="Hậu vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="HAGL" Ma_so_cau_thu="HAGL23" Ten=" Thân Thắng Toàn" Ngay_sinh="1996" Loai_cau_thu="Hậu vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="HAGL" Ma_so_cau_thu="HAGL24" Ten=" Lê Văn Trường" Ngay_sinh="1995" Loai_cau_thu="Thủ môn" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="HAGL" Ma_so_cau_thu="HAGL25" Ten=" Phan Thanh Hậu" Ngay_sinh="1997" Loai_cau_thu="Tiền vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="HAGL" Ma_so_cau_thu="HAGL26" Ten=" Nguyễn Văn Anh" Ngay_sinh="1996" Loai_cau_thu="Tiền đạo" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="HAGL" Ma_so_cau_thu="HAGL27" Ten=" Triệu Việt Hưng" Ngay_sinh="1997" Loai_cau_thu="Tiền vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="HAGL" Ma_so_cau_thu="HAGL28" Ten=" Nguyễn Văn Hạnh" Ngay_sinh="1998" Loai_cau_thu="" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="ND" Ma_so_cau_thu="ND1" Ten=" Nguyễn Minh Nhựt" Ngay_sinh="1986" Loai_cau_thu="Thủ môn" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="ND" Ma_so_cau_thu="ND2" Ten=" Đinh Viết Tú" Ngay_sinh="1992" Loai_cau_thu="Hậu vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="ND" Ma_so_cau_thu="ND3" Ten=" Phạm Minh Nghĩa" Ngay_sinh="1998" Loai_cau_thu="Hậu vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="ND" Ma_so_cau_thu="ND4" Ten=" Vũ Hữu Quý" Ngay_sinh="1993" Loai_cau_thu="Hậu vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="ND" Ma_so_cau_thu="ND5" Ten="Benjamin Neil Tevin Michael" Ngay_sinh="1994" Loai_cau_thu="Tiền đạo" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="ND" Ma_so_cau_thu="ND6" Ten=" Nguyễn Việt Dũng" Ngay_sinh="1988" Loai_cau_thu="Tiền vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="ND" Ma_so_cau_thu="ND7" Ten="Henry Shackiel Hasely Eustace" Ngay_sinh="1994" Loai_cau_thu="Tiền đạo" Tong_so_ban_thang="3"/>
+    <Cau_thu Ma_so_doi="ND" Ma_so_cau_thu="ND8" Ten=" Nguyễn Văn Hiệp" Ngay_sinh="1994" Loai_cau_thu="Tiền vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="ND" Ma_so_cau_thu="ND9" Ten=" Phạm Văn Thuần" Ngay_sinh="1992" Loai_cau_thu="Tiền vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="ND" Ma_so_cau_thu="ND10" Ten=" Lê Ngọc Nam" Ngay_sinh="1993" Loai_cau_thu="Trung vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="ND" Ma_so_cau_thu="ND11" Ten=" Phạm Văn Thuận" Ngay_sinh="1989" Loai_cau_thu="Hậu vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="ND" Ma_so_cau_thu="ND12" Ten=" Nguyễn Đình Mạnh" Ngay_sinh="1998" Loai_cau_thu="Tiền vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="ND" Ma_so_cau_thu="ND13" Ten=" Phạm Văn Quý" Ngay_sinh="1989" Loai_cau_thu="Hậu vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="ND" Ma_so_cau_thu="ND14" Ten=" Nguyễn Hữu Định" Ngay_sinh="1991" Loai_cau_thu="Tiền vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="ND" Ma_so_cau_thu="ND15" Ten=" Nguyễn Đức Anh Quốc" Ngay_sinh="1992" Loai_cau_thu="Tiền đạo" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="ND" Ma_so_cau_thu="ND16" Ten=" Trần Mạnh Hùng" Ngay_sinh="1997" Loai_cau_thu="" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="ND" Ma_so_cau_thu="ND17" Ten=" Trần Mạnh Cường" Ngay_sinh="1993" Loai_cau_thu="Hậu vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="ND" Ma_so_cau_thu="ND18" Ten=" Đinh Quang Phán" Ngay_sinh="1992" Loai_cau_thu="Thủ môn" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="ND" Ma_so_cau_thu="ND19" Ten=" Nguyễn Tiến Tạo" Ngay_sinh="1991" Loai_cau_thu="Thủ môn" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="ND" Ma_so_cau_thu="ND20" Ten=" Vũ Đức Nam" Ngay_sinh="1993" Loai_cau_thu="Hậu vệ" Tong_so_ban_thang="1"/>
+    <Cau_thu Ma_so_doi="ND" Ma_so_cau_thu="ND21" Ten=" Hoàng Minh Tuấn" Ngay_sinh="1995" Loai_cau_thu="Tiền đạo" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="ND" Ma_so_cau_thu="ND22" Ten=" Vũ Thế Vương" Ngay_sinh="1994" Loai_cau_thu="Hậu vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="ND" Ma_so_cau_thu="ND23" Ten=" Nguyễn Hạ Long" Ngay_sinh="1994" Loai_cau_thu="Hậu vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="ND" Ma_so_cau_thu="ND24" Ten=" Lê Quốc Hường" Ngay_sinh="1994" Loai_cau_thu="Hậu vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="ND" Ma_so_cau_thu="ND25" Ten=" Đinh Văn Trường" Ngay_sinh="1996" Loai_cau_thu="Hậu vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="ND" Ma_so_cau_thu="ND26" Ten=" Nguyễn Quốc Thiện Esele" Ngay_sinh="1984" Loai_cau_thu="Thủ môn" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="ND" Ma_so_cau_thu="ND27" Ten=" Lê Sỹ Minh" Ngay_sinh="1993" Loai_cau_thu="Trung vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="QN" Ma_so_cau_thu="QN1" Ten=" Trần Văn Chiến" Ngay_sinh="1996" Loai_cau_thu="Thủ môn" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="QN" Ma_so_cau_thu="QN2" Ten=" Trần Văn Học" Ngay_sinh="1987" Loai_cau_thu="Hậu vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="QN" Ma_so_cau_thu="QN3" Ten=" Huỳnh Tấn Sinh" Ngay_sinh="1996" Loai_cau_thu="Hậu vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="QN" Ma_so_cau_thu="QN4" Ten=" Trần Văn Tâm" Ngay_sinh="1992" Loai_cau_thu="Hậu vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="QN" Ma_so_cau_thu="QN5" Ten="Thiago" Ngay_sinh="1991" Loai_cau_thu="Hậu vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="QN" Ma_so_cau_thu="QN6" Ten=" Đặng Hữu Phước" Ngay_sinh="1990" Loai_cau_thu="Tiền vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="QN" Ma_so_cau_thu="QN7" Ten=" Đinh Thanh Trung" Ngay_sinh="1988" Loai_cau_thu="Tiền vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="QN" Ma_so_cau_thu="QN8" Ten=" Hà Minh Tuấn" Ngay_sinh="1991" Loai_cau_thu="Tiền đạo" Tong_so_ban_thang="4"/>
+    <Cau_thu Ma_so_doi="QN" Ma_so_cau_thu="QN9" Ten=" Phan Đình Thắng" Ngay_sinh="1992" Loai_cau_thu="Tiền vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="QN" Ma_so_cau_thu="QN10" Ten=" Nguyễn Trần Mila" Ngay_sinh="1989" Loai_cau_thu="Hậu vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="QN" Ma_so_cau_thu="QN11" Ten=" Nguyễn Văn Hậu" Ngay_sinh="1989" Loai_cau_thu="Hậu vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="QN" Ma_so_cau_thu="QN12" Ten=" Ngô Đức Thắng" Ngay_sinh="1988" Loai_cau_thu="Tiền vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="QN" Ma_so_cau_thu="QN13" Ten=" Đào Văn Phong" Ngay_sinh="1984" Loai_cau_thu="Hậu vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="QN" Ma_so_cau_thu="QN14" Ten=" Nguyễn Đức Cường" Ngay_sinh="1996" Loai_cau_thu="Hậu vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="QN" Ma_so_cau_thu="QN15" Ten=" Ngô Quang Huy" Ngay_sinh="1990" Loai_cau_thu="Tiền vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="QN" Ma_so_cau_thu="QN16" Ten=" Nguyễn Huy Tân" Ngay_sinh="1994" Loai_cau_thu="Tiền vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="QN" Ma_so_cau_thu="QN17" Ten=" Phan Thanh Hưng" Ngay_sinh="1987" Loai_cau_thu="Tiền vệ" Tong_so_ban_thang="1"/>
+    <Cau_thu Ma_so_doi="QN" Ma_so_cau_thu="QN18" Ten=" Trần Mạnh Toàn" Ngay_sinh="1988" Loai_cau_thu="Hậu vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="QN" Ma_so_cau_thu="QN19" Ten=" Trịnh Văn Hà" Ngay_sinh="1992" Loai_cau_thu="Hậu vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="QN" Ma_so_cau_thu="QN20" Ten=" Phạm Văn Cường" Ngay_sinh="1990" Loai_cau_thu="Thủ môn" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="QN" Ma_so_cau_thu="QN21" Ten=" Trần Đình Minh Hoàng" Ngay_sinh="1993" Loai_cau_thu="Thủ môn" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="QN" Ma_so_cau_thu="QN22" Ten=" Nguyễn Văn Thạnh" Ngay_sinh="1991" Loai_cau_thu="Tiền đạo" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="QN" Ma_so_cau_thu="QN23" Ten=" Nguyễn Anh Tuấn" Ngay_sinh="1990" Loai_cau_thu="Tiền vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="QN" Ma_so_cau_thu="QN24" Ten=" Nguyễn Huy Hùng" Ngay_sinh="1992" Loai_cau_thu="Tiền vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="QN" Ma_so_cau_thu="QN25" Ten=" Nguyễn Ngọc Nguyên" Ngay_sinh="1987" Loai_cau_thu="Hậu vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="QN" Ma_so_cau_thu="QN26" Ten=" Trần Hoàng Hưng" Ngay_sinh="1996" Loai_cau_thu="Tiền vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="QN" Ma_so_cau_thu="QN27" Ten="Dos Reis R Claudecir" Ngay_sinh="1989" Loai_cau_thu="Tiền đạo" Tong_so_ban_thang="3"/>
+    <Cau_thu Ma_so_doi="QN" Ma_so_cau_thu="QN28" Ten=" Nguyễn Trung Đại Dương" Ngay_sinh="1986" Loai_cau_thu="Tiền đạo" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="KH" Ma_so_cau_thu="KH1" Ten=" Trần Thế Kiệt" Ngay_sinh="1993" Loai_cau_thu="Thủ môn" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="KH" Ma_so_cau_thu="KH2" Ten=" Trần Trọng Bình" Ngay_sinh="1983" Loai_cau_thu="Trung vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="KH" Ma_so_cau_thu="KH3" Ten=" Trần Văn Vũ" Ngay_sinh="1992" Loai_cau_thu="Trung vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="KH" Ma_so_cau_thu="KH4" Ten=" Nguyễn Minh Huy" Ngay_sinh="1992" Loai_cau_thu="Tiền vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="KH" Ma_so_cau_thu="KH5" Ten=" Lâm Ti Phông" Ngay_sinh="1996" Loai_cau_thu="Tiền đạo" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="KH" Ma_so_cau_thu="KH6" Ten=" Lê Cao Hoài An" Ngay_sinh="1993" Loai_cau_thu="Tiền vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="KH" Ma_so_cau_thu="KH7" Ten=" Trần Đình Khương" Ngay_sinh="1996" Loai_cau_thu="Tiền vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="KH" Ma_so_cau_thu="KH8" Ten=" Trương Công Thảo" Ngay_sinh="1989" Loai_cau_thu="Tiền vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="KH" Ma_so_cau_thu="KH9" Ten=" Phạm Trùm Tỉnh" Ngay_sinh="1995" Loai_cau_thu="Tiền vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="KH" Ma_so_cau_thu="KH10" Ten=" Đặng Như Tứ" Ngay_sinh="1993" Loai_cau_thu="Tiền vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="KH" Ma_so_cau_thu="KH11" Ten=" Nguyễn Hoàng Quốc Chí" Ngay_sinh="1991" Loai_cau_thu="Tiền vệ" Tong_so_ban_thang="2"/>
+    <Cau_thu Ma_so_doi="KH" Ma_so_cau_thu="KH12" Ten=" Nguyễn Đình Nhơn" Ngay_sinh="1991" Loai_cau_thu="Tiền vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="KH" Ma_so_cau_thu="KH13" Ten=" Nguyễn Hữu Cảm" Ngay_sinh="1994" Loai_cau_thu="Tiền vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="KH" Ma_so_cau_thu="KH14" Ten=" Nguyễn Tấn Tài" Ngay_sinh="1991" Loai_cau_thu="Tiền vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="KH" Ma_so_cau_thu="KH15" Ten=" Trần Đình Kha" Ngay_sinh="1994" Loai_cau_thu="Tiền đạo" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="KH" Ma_so_cau_thu="KH16" Ten="Toure Youssouf" Ngay_sinh="1986" Loai_cau_thu="Tiền đạo" Tong_so_ban_thang="1"/>
+    <Cau_thu Ma_so_doi="KH" Ma_so_cau_thu="KH17" Ten=" Nguyễn Trung Hiếu" Ngay_sinh="1993" Loai_cau_thu="Hậu vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="KH" Ma_so_cau_thu="KH18" Ten=" Lê Duy Thanh" Ngay_sinh="1990" Loai_cau_thu="Tiền vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="KH" Ma_so_cau_thu="KH19" Ten=" Võ Ngọc Cường" Ngay_sinh="1994" Loai_cau_thu="Thủ môn" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="KH" Ma_so_cau_thu="KH20" Ten=" Nguyễn Tuấn Mạnh" Ngay_sinh="31/07/1990" Loai_cau_thu="Thủ môn" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="KH" Ma_so_cau_thu="KH21" Ten=" Trần Văn Tùng" Ngay_sinh="1996" Loai_cau_thu="Tiền đạo" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="KH" Ma_so_cau_thu="KH22" Ten=" Nguyễn Cửu Huy Hoàng" Ngay_sinh="1990" Loai_cau_thu="Trung vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="KH" Ma_so_cau_thu="KH23" Ten=" Đoàn Công Thành" Ngay_sinh="1997" Loai_cau_thu="Trung vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="KH" Ma_so_cau_thu="KH24" Ten=" Trần Văn Vũ" Ngay_sinh="1994" Loai_cau_thu="Hậu vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="KH" Ma_so_cau_thu="KH25" Ten=" Nguyễn Tấn Điền" Ngay_sinh="1984" Loai_cau_thu="Hậu vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="KH" Ma_so_cau_thu="KH26" Ten=" Nguyễn Đình Lợi" Ngay_sinh="1992" Loai_cau_thu="Hậu vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="KH" Ma_so_cau_thu="KH27" Ten=" Hoàng Nhật Nam" Ngay_sinh="1990" Loai_cau_thu="Tiền vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="KH" Ma_so_cau_thu="KH28" Ten="Zarour Chaher" Ngay_sinh="1983" Loai_cau_thu="Trung vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="SG" Ma_so_cau_thu="SG1" Ten=" Hoàng Ngọc Hào" Ngay_sinh="1994" Loai_cau_thu="Hậu vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="SG" Ma_so_cau_thu="SG2" Ten=" Ngô Anh Vũ" Ngay_sinh="1989" Loai_cau_thu="Trung vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="SG" Ma_so_cau_thu="SG3" Ten=" Nguyễn Văn Ngọ" Ngay_sinh="1991" Loai_cau_thu="Hậu vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="SG" Ma_so_cau_thu="SG4" Ten=" Nguyễn Tiến Duy" Ngay_sinh="1991" Loai_cau_thu="Trung vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="SG" Ma_so_cau_thu="SG5" Ten=" Võ Hoàng Quảng" Ngay_sinh="1987" Loai_cau_thu="Hậu vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="SG" Ma_so_cau_thu="SG6" Ten=" Nguyễn Ngọc Duy" Ngay_sinh="1986" Loai_cau_thu="Tiền vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="SG" Ma_so_cau_thu="SG7" Ten="Dugary Ndabashinze" Ngay_sinh="1989" Loai_cau_thu="Tiền vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="SG" Ma_so_cau_thu="SG8" Ten=" Lê Hoàng Thiên" Ngay_sinh="1990" Loai_cau_thu="Tiền đạo" Tong_so_ban_thang="5"/>
+    <Cau_thu Ma_so_doi="SG" Ma_so_cau_thu="SG9" Ten=" Trịnh Đức Lợi" Ngay_sinh="1994" Loai_cau_thu="Hậu vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="SG" Ma_so_cau_thu="SG10" Ten=" Lê Thế Mạnh" Ngay_sinh="1993" Loai_cau_thu="Tiền vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="SG" Ma_so_cau_thu="SG11" Ten="Da Sylva Dominique" Ngay_sinh="1989" Loai_cau_thu="Tiền đạo" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="SG" Ma_so_cau_thu="SG12" Ten=" Bùi Trần Vũ" Ngay_sinh="1989" Loai_cau_thu="Tiền vệ" Tong_so_ban_thang="3"/>
+    <Cau_thu Ma_so_doi="SG" Ma_so_cau_thu="SG13" Ten=" Mai Thanh Nam" Ngay_sinh="1990" Loai_cau_thu="Tiền vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="SG" Ma_so_cau_thu="SG14" Ten=" Lê Thành Phong" Ngay_sinh="" Loai_cau_thu="" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="SG" Ma_so_cau_thu="SG15" Ten=" Nguyễn Thanh Nguyên" Ngay_sinh="1998" Loai_cau_thu="Hậu vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="SG" Ma_so_cau_thu="SG16" Ten=" Nguyễn Xuân Dương" Ngay_sinh="1990" Loai_cau_thu="Tiền vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="SG" Ma_so_cau_thu="SG17" Ten=" Nguyễn Quốc Long" Ngay_sinh="1988" Loai_cau_thu="Hậu vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="SG" Ma_so_cau_thu="SG18" Ten=" Cao Văn Triền" Ngay_sinh="1993" Loai_cau_thu="Tiền vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="SG" Ma_so_cau_thu="SG19" Ten=" Tống Đức An" Ngay_sinh="1991" Loai_cau_thu="Thủ môn" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="SG" Ma_so_cau_thu="SG20" Ten=" Nguyễn Văn Hoàng" Ngay_sinh="1995" Loai_cau_thu="Thủ môn" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="SG" Ma_so_cau_thu="SG21" Ten=" Thân Thành Tín" Ngay_sinh="1993" Loai_cau_thu="Trung vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="SG" Ma_so_cau_thu="SG22" Ten=" Nguyễn Hữu Sơn" Ngay_sinh="1996" Loai_cau_thu="Tiền vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="SG" Ma_so_cau_thu="SG23" Ten=" Nguyễn Vũ Tín" Ngay_sinh="" Loai_cau_thu="" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="SG" Ma_so_cau_thu="SG24" Ten=" Trần Văn Hòa" Ngay_sinh="1998" Loai_cau_thu="Trung vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="SG" Ma_so_cau_thu="SG25" Ten=" Phạm Văn Phong" Ngay_sinh="1993" Loai_cau_thu="Thủ môn" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="SG" Ma_so_cau_thu="SG26" Ten=" Nguyễn Xuân Nam" Ngay_sinh="1994" Loai_cau_thu="Tiền đạo" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="SG" Ma_so_cau_thu="SG27" Ten=" Lê Văn Tân" Ngay_sinh="1984" Loai_cau_thu="Tiền đạo" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="SLNA" Ma_so_cau_thu="SLNA1" Ten=" Trần Nguyên Mạnh" Ngay_sinh="1991" Loai_cau_thu="Thủ môn" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="SLNA" Ma_so_cau_thu="SLNA2" Ten=" Võ Ngọc Đức" Ngay_sinh="1994" Loai_cau_thu="Hậu vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="SLNA" Ma_so_cau_thu="SLNA3" Ten=" Phạm Thế Nhật" Ngay_sinh="1991" Loai_cau_thu="Hậu vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="SLNA" Ma_so_cau_thu="SLNA4" Ten=" Quế Ngọc Hải" Ngay_sinh="1993" Loai_cau_thu="Hậu vệ" Tong_so_ban_thang="1"/>
+    <Cau_thu Ma_so_doi="SLNA" Ma_so_cau_thu="SLNA5" Ten=" Hoàng Văn Khánh" Ngay_sinh="1995" Loai_cau_thu="Hậu vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="SLNA" Ma_so_cau_thu="SLNA6" Ten=" Trần Đình Hoàng" Ngay_sinh="1991" Loai_cau_thu="Hậu vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="SLNA" Ma_so_cau_thu="SLNA7" Ten="OLAHAMICHAEL" Ngay_sinh="1997" Loai_cau_thu="" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="SLNA" Ma_so_cau_thu="SLNA8" Ten=" Hồ Sỹ Sâm" Ngay_sinh="1993" Loai_cau_thu="Tiền vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="SLNA" Ma_so_cau_thu="SLNA9" Ten=" Võ Ngọc Toàn" Ngay_sinh="1994" Loai_cau_thu="Tiền vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="SLNA" Ma_so_cau_thu="SLNA10" Ten=" Hồ Tuấn Tài" Ngay_sinh="1995" Loai_cau_thu="Tiền đạo" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="SLNA" Ma_so_cau_thu="SLNA11" Ten=" Phạm Xuân Mạnh" Ngay_sinh="1996" Loai_cau_thu="Tiền vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="SLNA" Ma_so_cau_thu="SLNA12" Ten=" Hồ Khắc Ngọc" Ngay_sinh="1992" Loai_cau_thu="Tiền vệ" Tong_so_ban_thang="1"/>
+    <Cau_thu Ma_so_doi="SLNA" Ma_so_cau_thu="SLNA13" Ten=" Đậu Thanh Phong" Ngay_sinh="1993" Loai_cau_thu="Tiền vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="SLNA" Ma_so_cau_thu="SLNA14" Ten=" Cao Xuân Thắng" Ngay_sinh="1993" Loai_cau_thu="Hậu vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="SLNA" Ma_so_cau_thu="SLNA15" Ten=" Hồ Phúc Tịnh" Ngay_sinh="1994" Loai_cau_thu="Tiền đạo" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="SLNA" Ma_so_cau_thu="SLNA16" Ten="Francisco" Ngay_sinh="" Loai_cau_thu="Tiền đạo" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="SLNA" Ma_so_cau_thu="SLNA17" Ten=" Phan Văn Đức" Ngay_sinh="1996" Loai_cau_thu="Tiền vệ" Tong_so_ban_thang="5"/>
+    <Cau_thu Ma_so_doi="SLNA" Ma_so_cau_thu="SLNA18" Ten=" Nguyễn Sỹ Nam" Ngay_sinh="1993" Loai_cau_thu="Hậu vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="SLNA" Ma_so_cau_thu="SLNA19" Ten=" Trần Đình Vũ Hải" Ngay_sinh="1994" Loai_cau_thu="" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="SLNA" Ma_so_cau_thu="SLNA20" Ten=" Lê Mạnh Dũng" Ngay_sinh="1994" Loai_cau_thu="Tiền vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="SLNA" Ma_so_cau_thu="SLNA21" Ten=" Ngô Xuân Toàn" Ngay_sinh="1993" Loai_cau_thu="Tiền vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="SLNA" Ma_so_cau_thu="SLNA22" Ten=" Nguyễn Phú Nguyên" Ngay_sinh="1995" Loai_cau_thu="Tiền vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="SLNA" Ma_so_cau_thu="SLNA23" Ten=" Nguyễn Viết Nguyên" Ngay_sinh="1995" Loai_cau_thu="Tiền đạo" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="SLNA" Ma_so_cau_thu="SLNA24" Ten=" Phạm Mạnh Hùng" Ngay_sinh="1993" Loai_cau_thu="Hậu vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="SLNA" Ma_so_cau_thu="SLNA25" Ten=" Lê Thế Cường" Ngay_sinh="1990" Loai_cau_thu="Tiền vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="SLNA" Ma_so_cau_thu="SLNA26" Ten=" Lê Văn Hùng" Ngay_sinh="1992" Loai_cau_thu="Thủ môn" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="SLNA" Ma_so_cau_thu="SLNA27" Ten=" Trần Văn Tiến" Ngay_sinh="1994" Loai_cau_thu="Thủ môn" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="DN" Ma_so_cau_thu="DN1" Ten=" Đặng Ngọc Tuấn" Ngay_sinh="1995" Loai_cau_thu="Thủ môn" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="DN" Ma_so_cau_thu="DN2" Ten="Ewonde Epassi Louis Christian" Ngay_sinh="1988" Loai_cau_thu="Tiền đạo" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="DN" Ma_so_cau_thu="DN3" Ten=" Lâm Anh Quang" Ngay_sinh="1991" Loai_cau_thu="Hậu vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="DN" Ma_so_cau_thu="DN4" Ten=" Bùi Văn Long" Ngay_sinh="1988" Loai_cau_thu="Hậu vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="DN" Ma_so_cau_thu="DN5" Ten=" Mạc Đức Việt Anh" Ngay_sinh="1997" Loai_cau_thu="Hậu vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="DN" Ma_so_cau_thu="DN6" Ten=" Đặng Anh Tuấn" Ngay_sinh="1994" Loai_cau_thu="Tiền vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="DN" Ma_so_cau_thu="DN7" Ten=" Nguyễn Thanh Hải" Ngay_sinh="1988" Loai_cau_thu="Tiền vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="DN" Ma_so_cau_thu="DN8" Ten="Pereira Diogo Junior" Ngay_sinh="1990" Loai_cau_thu="Tiền đạo" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="DN" Ma_so_cau_thu="DN9" Ten=" Phạm Trọng Hóa" Ngay_sinh="1998" Loai_cau_thu="Tiền đạo" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="DN" Ma_so_cau_thu="DN10" Ten=" Phan Văn Long" Ngay_sinh="1996" Loai_cau_thu="Tiền đạo" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="DN" Ma_so_cau_thu="DN11" Ten=" Hoàng Minh Tâm" Ngay_sinh="1990" Loai_cau_thu="Tiền vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="DN" Ma_so_cau_thu="DN12" Ten=" Nguyễn Thanh Bình" Ngay_sinh="1987" Loai_cau_thu="Thủ môn" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="DN" Ma_so_cau_thu="DN13" Ten=" Nguyễn Viết Thắng" Ngay_sinh="1994" Loai_cau_thu="Tiền vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="DN" Ma_so_cau_thu="DN14" Ten=" Nguyễn Văn Thắng" Ngay_sinh="1990" Loai_cau_thu="Hậu vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="DN" Ma_so_cau_thu="DN15" Ten=" Bùi Tiến Dụng" Ngay_sinh="1998" Loai_cau_thu="Tiền vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="DN" Ma_so_cau_thu="DN16" Ten=" Hồ Ngọc Thắng" Ngay_sinh="1994" Loai_cau_thu="Tiền vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="DN" Ma_so_cau_thu="DN17" Ten=" Võ Huy Toàn" Ngay_sinh="1993" Loai_cau_thu="Tiền vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="DN" Ma_so_cau_thu="DN18" Ten=" Đỗ Merlo" Ngay_sinh="1985" Loai_cau_thu="Tiền đạo" Tong_so_ban_thang="1"/>
+    <Cau_thu Ma_so_doi="DN" Ma_so_cau_thu="DN19" Ten=" Võ Nhật Tân" Ngay_sinh="1988" Loai_cau_thu="Hậu vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="DN" Ma_so_cau_thu="DN20" Ten=" Phan Duy Lam" Ngay_sinh="1988" Loai_cau_thu="Hậu vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="DN" Ma_so_cau_thu="DN21" Ten=" Đỗ Thanh Thịnh" Ngay_sinh="1998" Loai_cau_thu="Hậu vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="DN" Ma_so_cau_thu="DN22" Ten=" Phan Đức Lễ" Ngay_sinh="1993" Loai_cau_thu="Hậu vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="DN" Ma_so_cau_thu="DN23" Ten=" Lê Văn Hưng" Ngay_sinh="1987" Loai_cau_thu="Thủ môn" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="DN" Ma_so_cau_thu="DN24" Ten=" Hà Đức Chinh" Ngay_sinh="1997" Loai_cau_thu="Tiền đạo" Tong_so_ban_thang="3"/>
+    <Cau_thu Ma_so_doi="DN" Ma_so_cau_thu="DN25" Ten=" Liễu Quang Vinh" Ngay_sinh="1999" Loai_cau_thu="Hậu vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="DN" Ma_so_cau_thu="DN26" Ten=" Lê Văn Điệp" Ngay_sinh="1998" Loai_cau_thu="Tiền vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="TQN" Ma_so_cau_thu="TQN1" Ten=" Nguyễn Hoài Anh" Ngay_sinh="1993" Loai_cau_thu="Thủ môn" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="TQN" Ma_so_cau_thu="TQN2" Ten=" Dương Văn Khoa" Ngay_sinh="1994" Loai_cau_thu="Hậu vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="TQN" Ma_so_cau_thu="TQN3" Ten=" Dương Thanh Hào" Ngay_sinh="1991" Loai_cau_thu="Trung vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="TQN" Ma_so_cau_thu="TQN4" Ten=" Lê Tuấn Tú" Ngay_sinh="1993" Loai_cau_thu="Trung vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="TQN" Ma_so_cau_thu="TQN5" Ten=" Vũ Viết Triều" Ngay_sinh="1997" Loai_cau_thu="Hậu vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="TQN" Ma_so_cau_thu="TQN6" Ten=" Giang Trần Quách Tân" Ngay_sinh="1992" Loai_cau_thu="Tiền vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="TQN" Ma_so_cau_thu="TQN7" Ten=" Vũ Thanh Tùng" Ngay_sinh="1988" Loai_cau_thu="Tiền vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="TQN" Ma_so_cau_thu="TQN8" Ten=" Hồ Hùng Cường" Ngay_sinh="1995" Loai_cau_thu="Tiền vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="TQN" Ma_so_cau_thu="TQN9" Ten=" Trịnh Hoa Hùng" Ngay_sinh="1991" Loai_cau_thu="Tiền vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="TQN" Ma_so_cau_thu="TQN10" Ten=" Nguyễn Hải Huy" Ngay_sinh="1991" Loai_cau_thu="Tiền vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="TQN" Ma_so_cau_thu="TQN11" Ten=" Đào Nhật Minh" Ngay_sinh="1992" Loai_cau_thu="Tiền vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="TQN" Ma_so_cau_thu="TQN12" Ten=" Nguyễn Văn Điều" Ngay_sinh="1997" Loai_cau_thu="Tiền vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="TQN" Ma_so_cau_thu="TQN13" Ten=" Mạc Hồng Quân" Ngay_sinh="1992" Loai_cau_thu="Tiền đạo" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="TQN" Ma_so_cau_thu="TQN14" Ten=" Phạm Trung Hiếu" Ngay_sinh="1998" Loai_cau_thu="Tiền vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="TQN" Ma_so_cau_thu="TQN15" Ten=" Nguyễn Huy Cường" Ngay_sinh="1986" Loai_cau_thu="Hậu vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="TQN" Ma_so_cau_thu="TQN16" Ten=" Nguyễn Xuân Hùng" Ngay_sinh="1991" Loai_cau_thu="Hậu vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="TQN" Ma_so_cau_thu="TQN17" Ten=" Nguyễn Văn Tám" Ngay_sinh="" Loai_cau_thu="" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="TQN" Ma_so_cau_thu="TQN18" Ten=" Nguyễn Thế Hưng" Ngay_sinh="1990" Loai_cau_thu="Tiền vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="TQN" Ma_so_cau_thu="TQN19" Ten=" Huỳnh Tuấn Linh" Ngay_sinh="1991" Loai_cau_thu="Thủ môn" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="TQN" Ma_so_cau_thu="TQN20" Ten=" Nguyễn Văn Việt" Ngay_sinh="1989" Loai_cau_thu="Trung vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="TQN" Ma_so_cau_thu="TQN21" Ten=" Trần Trung Hiếu" Ngay_sinh="1993" Loai_cau_thu="Tiền vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="TQN" Ma_so_cau_thu="TQN22" Ten=" Phạm Nguyên Sa" Ngay_sinh="1989" Loai_cau_thu="Tiền vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="TQN" Ma_so_cau_thu="TQN23" Ten=" Nguyễn Thanh Hiền" Ngay_sinh="1993" Loai_cau_thu="Hậu vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="TQN" Ma_so_cau_thu="TQN24" Ten=" Nghiêm Xuân Tú" Ngay_sinh="1988" Loai_cau_thu="Tiền vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="TQN" Ma_so_cau_thu="TQN25" Ten=" Hoàng Tuấn Anh" Ngay_sinh="1990" Loai_cau_thu="Hậu vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="TQN" Ma_so_cau_thu="TQN26" Ten=" Silva Dos Anios Joel Vinicius" Ngay_sinh="" Loai_cau_thu="Tiền đạo" Tong_so_ban_thang="4"/>
+    <Cau_thu Ma_so_doi="TQN" Ma_so_cau_thu="TQN27" Ten=" Hoàng Văn Hưng" Ngay_sinh="1995" Loai_cau_thu="Thủ môn" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="TQN" Ma_so_cau_thu="TQN28" Ten="Teofilo Soares Eydison" Ngay_sinh="1988" Loai_cau_thu="Tiền đạo" Tong_so_ban_thang="1"/>
+    <Cau_thu Ma_so_doi="HCM" Ma_so_cau_thu="HCM1" Ten=" Đinh Xuân Việt" Ngay_sinh="1983" Loai_cau_thu="Thủ môn" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="HCM" Ma_so_cau_thu="HCM2" Ten=" Lê Minh Hòa" Ngay_sinh="1990" Loai_cau_thu="Hậu vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="HCM" Ma_so_cau_thu="HCM3" Ten=" Vũ Ngọc Thịnh" Ngay_sinh="1992" Loai_cau_thu="Hậu vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="HCM" Ma_so_cau_thu="HCM4" Ten=" Đặng Văn Robert" Ngay_sinh="1984" Loai_cau_thu="Hậu vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="HCM" Ma_so_cau_thu="HCM5" Ten=" Sầm Ngọc Đức" Ngay_sinh="1992" Loai_cau_thu="Hậu vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="HCM" Ma_so_cau_thu="HCM6" Ten="Paulo Daniel Fernandes Tavares" Ngay_sinh="1985" Loai_cau_thu="Tiền vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="HCM" Ma_so_cau_thu="HCM7" Ten="Gustavo Santos Costa" Ngay_sinh="1996" Loai_cau_thu="Tiền đạo" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="HCM" Ma_so_cau_thu="HCM8" Ten=" Trần Phi Sơn" Ngay_sinh="1992" Loai_cau_thu="Tiền vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="HCM" Ma_so_cau_thu="HCM9" Ten=" Vũ Quang Nam" Ngay_sinh="1992" Loai_cau_thu="Tiền vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="HCM" Ma_so_cau_thu="HCM10" Ten=" Đỗ Văn Thuận" Ngay_sinh="1992" Loai_cau_thu="Tiền vệ" Tong_so_ban_thang="1"/>
+    <Cau_thu Ma_so_doi="HCM" Ma_so_cau_thu="HCM11" Ten=" Nguyễn Hữu Tuấn" Ngay_sinh="1992" Loai_cau_thu="Tiền vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="HCM" Ma_so_cau_thu="HCM12" Ten=" Nguyễn Hữu Thắng" Ngay_sinh="1989" Loai_cau_thu="Tiền vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="HCM" Ma_so_cau_thu="HCM13" Ten=" Nguyễn Minh Trung" Ngay_sinh="1992" Loai_cau_thu="Tiền vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="HCM" Ma_so_cau_thu="HCM14" Ten=" Trần Thanh Bình" Ngay_sinh="1993" Loai_cau_thu="Tiền vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="HCM" Ma_so_cau_thu="HCM15" Ten=" Nguyễn Ngọc Anh" Ngay_sinh="1988" Loai_cau_thu="Tiền đạo" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="HCM" Ma_so_cau_thu="HCM16" Ten=" Trương Đình Luật" Ngay_sinh="1983" Loai_cau_thu="Trung vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="HCM" Ma_so_cau_thu="HCM17" Ten="Gonzalo Damian Marronkle" Ngay_sinh="1984" Loai_cau_thu="Tiền đạo" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="HCM" Ma_so_cau_thu="HCM18" Ten=" Nguyễn Hải Anh" Ngay_sinh="1987" Loai_cau_thu="Tiền đạo" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="HCM" Ma_so_cau_thu="HCM19" Ten=" Bùi Trần Kiệt" Ngay_sinh="1994" Loai_cau_thu="Tiền vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="HCM" Ma_so_cau_thu="HCM20" Ten=" Nguyễn Thanh Diệp" Ngay_sinh="1991" Loai_cau_thu="Thủ môn" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="HCM" Ma_so_cau_thu="HCM21" Ten=" Nguyễn Sơn Hải" Ngay_sinh="1994" Loai_cau_thu="Thủ môn" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="HCM" Ma_so_cau_thu="HCM22" Ten=" Phạm Công Hiển" Ngay_sinh="1992" Loai_cau_thu="Tiền vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="HCM" Ma_so_cau_thu="HCM23" Ten=" Đào Quốc Gia" Ngay_sinh="1996" Loai_cau_thu="Tiền vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="HCM" Ma_so_cau_thu="HCM24" Ten=" Trần Đình Bảo" Ngay_sinh="1997" Loai_cau_thu="Hậu vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="HCM" Ma_so_cau_thu="HCM25" Ten=" Huỳnh Văn Thanh" Ngay_sinh="1992" Loai_cau_thu="Tiền vệ" Tong_so_ban_thang="1"/>
+    <Cau_thu Ma_so_doi="HCM" Ma_so_cau_thu="HCM26" Ten=" Âu Văn Hoàn" Ngay_sinh="1989" Loai_cau_thu="Hậu vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="CT" Ma_so_cau_thu="CT1" Ten=" Tô Vĩnh Lợi" Ngay_sinh="1985" Loai_cau_thu="Thủ môn" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="CT" Ma_so_cau_thu="CT2" Ten=" Ngô Tùng Quốc" Ngay_sinh="1998" Loai_cau_thu="Hậu vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="CT" Ma_so_cau_thu="CT3" Ten=" Nguyễn Thành Lộc" Ngay_sinh="1997" Loai_cau_thu="Hậu vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="CT" Ma_so_cau_thu="CT4" Ten=" Cao Cường" Ngay_sinh="1987" Loai_cau_thu="Trung vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="CT" Ma_so_cau_thu="CT5" Ten=" Lê Ngọc Bảo" Ngay_sinh="1998" Loai_cau_thu="Trung vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="CT" Ma_so_cau_thu="CT6" Ten=" Nguyễn Hữu Dũng" Ngay_sinh="1995" Loai_cau_thu="Tiền vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="CT" Ma_so_cau_thu="CT7" Ten=" Trần Vũ Phương Tâm" Ngay_sinh="1989" Loai_cau_thu="Tiền vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="CT" Ma_so_cau_thu="CT8" Ten=" Vũ Anh Tuấn" Ngay_sinh="1987" Loai_cau_thu="Tiền vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="CT" Ma_so_cau_thu="CT9" Ten="Patiyo Tambwe" Ngay_sinh="1984" Loai_cau_thu="Tiền đạo" Tong_so_ban_thang="5"/>
+    <Cau_thu Ma_so_doi="CT" Ma_so_cau_thu="CT10" Ten=" Nguyễn Quang Tình" Ngay_sinh="1988" Loai_cau_thu="Tiền vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="CT" Ma_so_cau_thu="CT11" Ten=" Nguyễn Tăng Tuấn" Ngay_sinh="1986" Loai_cau_thu="Tiền vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="CT" Ma_so_cau_thu="CT12" Ten=" Lê Đức Lộc" Ngay_sinh="1990" Loai_cau_thu="Trung vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="CT" Ma_so_cau_thu="CT13" Ten=" Nguyễn Văn Quân" Ngay_sinh="1987" Loai_cau_thu="Trung vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="CT" Ma_so_cau_thu="CT14" Ten=" Lê Trung Hiếu" Ngay_sinh="1994" Loai_cau_thu="Tiền vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="CT" Ma_so_cau_thu="CT15" Ten=" Lương Bá Sơn" Ngay_sinh="1992" Loai_cau_thu="Thủ môn" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="CT" Ma_so_cau_thu="CT16" Ten=" Nguyễn Huỳnh Kiếm Linh" Ngay_sinh="1988" Loai_cau_thu="Tiền vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="CT" Ma_so_cau_thu="CT17" Ten=" Nguyễn Hiếu Trung Anh" Ngay_sinh="1992" Loai_cau_thu="Tiền vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="CT" Ma_so_cau_thu="CT18" Ten=" Nguyễn Kiên Quyết" Ngay_sinh="1996" Loai_cau_thu="Tiền vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="CT" Ma_so_cau_thu="CT19" Ten=" Võ Út Cường" Ngay_sinh="1990" Loai_cau_thu="Tiền vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="CT" Ma_so_cau_thu="CT20" Ten=" Trần Hoài Thanh" Ngay_sinh="1990" Loai_cau_thu="Thủ môn" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="CT" Ma_so_cau_thu="CT21" Ten=" Nguyễn Duy Khanh" Ngay_sinh="1986" Loai_cau_thu="Tiền vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="CT" Ma_so_cau_thu="CT22" Ten="Wander Luiz Queiroz Dias" Ngay_sinh="1992" Loai_cau_thu="Tiền đạo" Tong_so_ban_thang="5"/>
+    <Cau_thu Ma_so_doi="CT" Ma_so_cau_thu="CT23" Ten=" Lê Hoàng Thống" Ngay_sinh="1995" Loai_cau_thu="Tiền vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="CT" Ma_so_cau_thu="CT24" Ten=" Nguyễn Công Thành" Ngay_sinh="1991" Loai_cau_thu="Hậu vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="CT" Ma_so_cau_thu="CT25" Ten=" Trần Thanh Long" Ngay_sinh="1997" Loai_cau_thu="Tiền vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="CT" Ma_so_cau_thu="CT26" Ten=" Hoàng Vissai" Ngay_sinh="1985" Loai_cau_thu="Trung vệ" Tong_so_ban_thang=""/>
+    <Cau_thu Ma_so_doi="CT" Ma_so_cau_thu="CT27" Ten=" Huỳnh Tấn Hùng" Ngay_sinh="1989" Loai_cau_thu="Tiền vệ" Tong_so_ban_thang=""/>
 </Danh_sach_cau_thu>

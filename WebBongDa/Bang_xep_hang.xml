@@ -1,6 +1,18 @@
 <Bang_xep_hang>
-    <Ngay Ngay="18/5/2018">
-        <Doi Ten="Manchester" Thang="4" Hoa="2" Thua="2" Hieu_so="12-5" Hang="2"/>
-        
+    <Ngay Ngay="3/6/2018">
+        <Doi Ma_so_doi="HN" Ten="Hà Nội FC " Thang="9" Hoa="2" Thua="0 " Hieu_so="31-7" Hang="1"/>
+        <Doi Ma_so_doi="TQN" Ten="Than Quảng Ninh " Thang="6" Hoa="3" Thua="2 " Hieu_so="14-9" Hang="2"/>
+        <Doi Ma_so_doi="BD" Ten="Bình Dương " Thang="4" Hoa="6" Thua="1 " Hieu_so="18-11" Hang="3"/>
+        <Doi Ma_so_doi="HAGL" Ten="Hoàng Anh Gia Lai " Thang="4" Hoa="5" Thua="2 " Hieu_so="14-16" Hang="4"/>
+        <Doi Ma_so_doi="QN" Ten="Quảng Nam " Thang="4" Hoa="4" Thua="3 " Hieu_so="13-12" Hang="5"/>
+        <Doi Ma_so_doi="HP" Ten="Hải Phòng " Thang="5" Hoa="1" Thua="5 " Hieu_so="11-10" Hang="6"/>
+        <Doi Ma_so_doi="CT" Ten="Cần Thơ " Thang="3" Hoa="6" Thua="2 " Hieu_so="12-13" Hang="7"/>
+        <Doi Ma_so_doi="KH" Ten="Khánh Hòa " Thang="3" Hoa="5" Thua="3 " Hieu_so="9-13" Hang="8"/>
+        <Doi Ma_so_doi="TH" Ten="Thanh Hóa " Thang="3" Hoa="4" Thua="4 " Hieu_so="15-16" Hang="9"/>
+        <Doi Ma_so_doi="DN" Ten="Đà Nẵng " Thang="3" Hoa="4" Thua="4 " Hieu_so="12-15" Hang="10"/>
+        <Doi Ma_so_doi="HCM" Ten="TP.HCM " Thang="3" Hoa="2" Thua="6 " Hieu_so="9-16" Hang="11"/>
+        <Doi Ma_so_doi="SLNA" Ten="Sông Lam Nghệ An " Thang="1" Hoa="5" Thua="5 " Hieu_so="11-14" Hang="12"/>
+        <Doi Ma_so_doi="SG" Ten="Sài Gòn " Thang="1" Hoa="4" Thua="6 " Hieu_so="13-20" Hang="13"/>
+        <Doi Ma_so_doi="ND" Ten="Nam Định " Thang="1" Hoa="3" Thua="7 " Hieu_so="10-20" Hang="14"/>
     </Ngay>
 </Bang_xep_hang>

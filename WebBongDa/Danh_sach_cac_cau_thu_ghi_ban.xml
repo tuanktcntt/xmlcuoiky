@@ -1,5 +1,36 @@
 <Danh_sach_cac_cau_thu_ghi_ban>
-    <Ngay Ngay="20/5/2018">
-        <Cau_thu Ten="Lương Xuân Trường" Doi="Eakar Sentinel" Loai_cau_thu="Winger" So_ban_thang="2">
+    <Ngay Ngay="3/6/2018">
+        <Cau_thu  Ma_so_cau_thu="BD4" Ma_so_doi="BD" Loai_cau_thu="Hậu vệ" Tong_so_ban_thang="1"/>
+        <Cau_thu  Ma_so_cau_thu="BD9" Ma_so_doi="BD" Loai_cau_thu="Tiền đạo" Tong_so_ban_thang="1"/>
+        <Cau_thu  Ma_so_cau_thu="BD19" Ma_so_doi="BD" Loai_cau_thu="Tiền đạo" Tong_so_ban_thang="6"/>
+        <Cau_thu  Ma_so_cau_thu="TH17" Ma_so_doi="TH" Loai_cau_thu="Tiền đạo" Tong_so_ban_thang="5"/>
+        <Cau_thu  Ma_so_cau_thu="HN4" Ma_so_doi="HN" Loai_cau_thu="Hậu vệ" Tong_so_ban_thang="1"/>
+        <Cau_thu  Ma_so_cau_thu="HN7" Ma_so_doi="HN" Loai_cau_thu="Tiền vệ" Tong_so_ban_thang="1"/>
+        <Cau_thu  Ma_so_cau_thu="HN13" Ma_so_doi="HN" Loai_cau_thu="Tiền vệ" Tong_so_ban_thang="1"/>
+        <Cau_thu  Ma_so_cau_thu="HN18" Ma_so_doi="HN" Loai_cau_thu="Tiền đạo" Tong_so_ban_thang="1"/>
+        <Cau_thu  Ma_so_cau_thu="HN25" Ma_so_doi="HN" Loai_cau_thu="Tiền đạo" Tong_so_ban_thang="12"/>
+        <Cau_thu  Ma_so_cau_thu="HP8" Ma_so_doi="HP" Loai_cau_thu="Tiền đạo" Tong_so_ban_thang="5"/>
+        <Cau_thu  Ma_so_cau_thu="HAGL7" Ma_so_doi="HAGL" Loai_cau_thu="Tiền đạo" Tong_so_ban_thang="1"/>
+        <Cau_thu  Ma_so_cau_thu="HAGL8" Ma_so_doi="HAGL" Loai_cau_thu="Tiền đạo" Tong_so_ban_thang="4"/>
+        <Cau_thu  Ma_so_cau_thu="ND7" Ma_so_doi="ND" Loai_cau_thu="Tiền đạo" Tong_so_ban_thang="3"/>
+        <Cau_thu  Ma_so_cau_thu="ND20" Ma_so_doi="ND" Loai_cau_thu="Hậu vệ" Tong_so_ban_thang="1"/>
+        <Cau_thu  Ma_so_cau_thu="QN8" Ma_so_doi="QN" Loai_cau_thu="Tiền đạo" Tong_so_ban_thang="4"/>
+        <Cau_thu  Ma_so_cau_thu="QN17" Ma_so_doi="QN" Loai_cau_thu="Tiền vệ" Tong_so_ban_thang="1"/>
+        <Cau_thu  Ma_so_cau_thu="QN27" Ma_so_doi="QN" Loai_cau_thu="Tiền đạo" Tong_so_ban_thang="3"/>
+        <Cau_thu  Ma_so_cau_thu="KH11" Ma_so_doi="KH" Loai_cau_thu="Tiền vệ" Tong_so_ban_thang="2"/>
+        <Cau_thu  Ma_so_cau_thu="KH16" Ma_so_doi="KH" Loai_cau_thu="Tiền đạo" Tong_so_ban_thang="1"/>
+        <Cau_thu  Ma_so_cau_thu="SG8" Ma_so_doi="SG" Loai_cau_thu="Tiền đạo" Tong_so_ban_thang="5"/>
+        <Cau_thu  Ma_so_cau_thu="SG12" Ma_so_doi="SG" Loai_cau_thu="Tiền vệ" Tong_so_ban_thang="3"/>
+        <Cau_thu  Ma_so_cau_thu="SLNA4" Ma_so_doi="SLNA" Loai_cau_thu="Hậu vệ" Tong_so_ban_thang="1"/>
+        <Cau_thu  Ma_so_cau_thu="SLNA12" Ma_so_doi="SLNA" Loai_cau_thu="Tiền vệ" Tong_so_ban_thang="1"/>
+        <Cau_thu  Ma_so_cau_thu="SLNA17" Ma_so_doi="SLNA" Loai_cau_thu="Tiền vệ" Tong_so_ban_thang="5"/>
+        <Cau_thu  Ma_so_cau_thu="DN18" Ma_so_doi="DN" Loai_cau_thu="Tiền đạo" Tong_so_ban_thang="1"/>
+        <Cau_thu  Ma_so_cau_thu="DN24" Ma_so_doi="DN" Loai_cau_thu="Tiền đạo" Tong_so_ban_thang="3"/>
+        <Cau_thu  Ma_so_cau_thu="TQN26" Ma_so_doi="TQN" Loai_cau_thu="Tiền đạo" Tong_so_ban_thang="4"/>
+        <Cau_thu  Ma_so_cau_thu="TQN28" Ma_so_doi="TQN" Loai_cau_thu="Tiền đạo" Tong_so_ban_thang="1"/>
+        <Cau_thu  Ma_so_cau_thu="HCM10" Ma_so_doi="HCM" Loai_cau_thu="Tiền vệ" Tong_so_ban_thang="1"/>
+        <Cau_thu  Ma_so_cau_thu="HCM25" Ma_so_doi="HCM" Loai_cau_thu="Tiền vệ" Tong_so_ban_thang="1"/>
+        <Cau_thu  Ma_so_cau_thu="CT9" Ma_so_doi="CT" Loai_cau_thu="Tiền đạo" Tong_so_ban_thang="5"/>
+        <Cau_thu  Ma_so_cau_thu="CT22" Ma_so_doi="CT" Loai_cau_thu="Tiền đạo" Tong_so_ban_thang="5"/>
     </Ngay>
 </Danh_sach_cac_cau_thu_ghi_ban>
