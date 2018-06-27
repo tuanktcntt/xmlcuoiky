@@ -40,7 +40,6 @@ fs.readFile('./Ho_so_doi_bong.xml', 'utf-8', function (err, data) {
       "Cau_thu": Cau_thu_doi
     }
     Danh_sach_doi_bong.push(temp);
-    console.log(temp);
   };
 });
 

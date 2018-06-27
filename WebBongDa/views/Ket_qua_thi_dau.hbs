@@ -1,19 +1,20 @@
 <div class="col-md-9">
+    {{#each Danh_sach_tran}}
     <table class="table table-striped" border=1>
         <tr>
              <th colspan="1">BM3</th>
              <th colspan="4">Kết quả thi đấu</th>
         </tr>
         <tr>
-            <td colspan="2">Đội 1</td>
-            <td colspan="3">Đội 2</td>
+            <td colspan="2">Đội 1: {{this.Doi_1}}</td>
+            <td colspan="3">Đội 2: {{this.Doi_2}}</td>
         </tr>
         <tr>
-            <td colspan="2">Tỉ số</td>
-            <td colspan="3">Sân</td>
+            <td colspan="2">Tỉ số: {{this.Ti_so}}</td>
+            <td colspan="3">Sân: {{this.San}}</td>
         </tr>
         <tr>
-            <td colspan="2">Ngày</td>
+            <td colspan="2">Ngày: {{this.Ngay_gio}}</td>
             <td colspan="3">Giờ</td>
         </tr>
         <tr>
@@ -23,13 +24,15 @@
             <th>Loại bàn thắng</th>
             <th>Thời điểm</th>
         </tr>
+        {{#each this.Cau_thu}}
          <tr>
-            <td>1</td>
-            <td>Vũ Đình Thăng</td>
-            <td>Sai gon star</td>
-            <td>A</td>
-            <td>95:59</td>
+            <td>{{this.STT}}</td>
+            <td>{{this.Ten}}</td>
+            <td>{{this.Doi}}</td>
+            <td>{{this.Loai_ban_thang}}</td>
+            <td>{{this.Thoi_diem}}</td>
         </tr>
-       
+       {{/each}}
     </table>
+    {{/each}}
 </div>
