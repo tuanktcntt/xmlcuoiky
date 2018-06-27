@@ -1,17 +1,18 @@
 var express = require('express');
 var router = express.Router();
+var Danh_sach_tran =[];
 
-fs.readFile('./Ho_so_doi_bong.xml', 'utf-8', function (err, data) {
+fs.readFile('./Lich_thi_dau.xml', 'utf-8', function (err, data) {
   if (err) {
     throw err;
   };
   doc = new xmldom().parseFromString(data, 'application/xml');
   
-  //doc danh sach ho so doi bong
-  Doi = doc.getElementsByTagName('Doi');
-  var Danh_sach_cau_thu=doc.getElementsByTagName('Cau_thu');
-  var temp;
-  for(var i = 0; i < Doi.length; i++)
+  //doc danh sach tran dau
+  Danh_sach_tran = doc.getElementsByTagName('Tran');
+  //var Danh_sach_cau_thu=doc.getElementsByTagName('Cau_thu');
+  //var temp;
+  for(var i = 0; i < Danh_sach_tran.length; i++)
   {
     var San_nha=Doi[i].getAttribute("San_nha");
     var Ten_doi=Doi[i].getAttribute("Ten");
@@ -39,7 +40,6 @@ fs.readFile('./Ho_so_doi_bong.xml', 'utf-8', function (err, data) {
     console.log(temp);
   };
 });
-
 
 /* GET sellerpage*/
 router.get('/', function(req, res, next) {
