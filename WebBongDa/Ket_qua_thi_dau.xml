@@ -1,7 +1,7 @@
 <Ket_qua_thi_dau>
     <Vong_thi_dau vong="1">
         <Danh_sach_tran_dau>
-            <Tran Ma_so_tran="V11" Ty_so="">
+            <Tran Ma_so_tran="V11" Ty_so="" Doi1="" Doi2="" Ngay="" Gio="">
                 <Danh_sach_ghi_ban>
                     <Cau_thu Ma_so_cau_thu=""   Ma_so_doi=""    Loai_ban_thang=""   Thoi_Diem=""/>
                 </Danh_sach_ghi_ban>

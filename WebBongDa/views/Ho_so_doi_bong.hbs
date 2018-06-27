@@ -1,28 +1,31 @@
 
 <div class="col-md-9">
+    {{#each Danh_sach_doi_bong}}
     <table class="table table-striped" border=1>
         <tr>
              <th colspan="1">BM1</th>
              <th colspan="4">Hồ sơ đội bóng</th>
         </tr>
         <tr>
-            <td colspan="2">Tên đội</td>
-            <td colspan="3">Sân nhà</td>
+            <td colspan="2">Tên Đội: {{this.Ten_doi}}</td>
+            <td colspan="3">Sân nhà: {{this.San_nha}}</td>
         </tr>
         <tr>
-            <th>STT</th>
+        
             <th>Cầu thủ</th>
             <th>Ngày sinh</th>
             <th>Loại cầu thủ</th>
             <th>Ghi chú</th>
         </tr>
+        {{#each this.Cau_thu}}
          <tr>
-            <td>1</td>
-            <td>Vũ Đình Thăng</td>
-            <td>05-09-1996</td>
-            <td>Attacker</td>
+           
+            <td>{{this.Ten}}</td>
+            <td>{{this.Ngay_sinh}}</td>
+            <td>{{this.Laoi_cau_thu}}</td>
             <td>Thiên tài bẩm sinh, nỗ lực hơn người</td>
         </tr>
-       
+        {{/each}}
     </table>
+     {{/each}}
 </div>
