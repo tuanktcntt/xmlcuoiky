@@ -1,39 +1,42 @@
 <Ket_qua_thi_dau>
     <Vong_thi_dau vong="1">
         <Danh_sach_tran_dau>
-            <Tran Ma_so_tran="V11" Ty_so="" Doi1="" Doi2="" Ngay="" Gio="">
+            <Tran Ma_so_tran="V11" Doi_1="Hoàng Anh Gia Lai" Doi_2="Bình Dương" Ngay_gio="10/3/2018" Sân="Pleiku" Ty_so="0-0">
                 <Danh_sach_ghi_ban>
-                    <Cau_thu Ma_so_cau_thu=""   Ma_so_doi=""    Loai_ban_thang=""   Thoi_Diem=""/>
                 </Danh_sach_ghi_ban>
             </Tran>
-            <Tran Ma_so_tran="V12" Ty_so="">
+            <Tran Ma_so_tran="V12" Doi_1="Quảng Nam" Doi_2="Sài Gòn" Ngay_gio="10/3/2018" Sân="Tam Kỳ" Ty_so="1-1">
                 <Danh_sach_ghi_ban>
-                    <Cau_thu Ma_so_cau_thu=""   Ma_so_doi=""    Loai_ban_thang=""   Thoi_Diem=""/>
+                    <Cau_thu STT="1" Ten_cau_thu="Hà Minh Tuấn"   Ten_doi="Quảng Nam"    Loai_ban_thang="A"   Thoi_Diem="48"/>
+                    <Cau_thu STT="2" Ten_cau_thu="Lê Hoàng Thiên"   Ten_doi="Sài Gòn"    Loai_ban_thang="A"   Thoi_Diem="63"/>
                 </Danh_sach_ghi_ban>
             </Tran>
-            <Tran Ma_so_tran="V13" Ty_so="">
+            <Tran Ma_so_tran="V13" Doi_1="Quảng Ninh" Doi_2="Đà Nẵng" Ngay_gio="11/3/2018" Sân="Cẩm Phả" Ty_so="1-0">
                 <Danh_sach_ghi_ban>
-                    <Cau_thu Ma_so_cau_thu=""   Ma_so_doi=""    Loai_ban_thang=""   Thoi_Diem=""/>
+                    <Cau_thu STT="1" Ten_cau_thu="Eydison"   Ten_doi="Than Quảng Ninh"    Loai_ban_thang="A"   Thoi_Diem="18"/>
                 </Danh_sach_ghi_ban>
             </Tran>
-            <Tran Ma_so_tran="V14" Ty_so="">
+            <Tran Ma_so_tran="V14" Doi_1="Nam Định" Doi_2="Cần Thơ" Ngay_gio="11/3/2018" Sân="Thiên Trường" Ty_so="0-0">
                 <Danh_sach_ghi_ban>
-                    <Cau_thu Ma_so_cau_thu=""   Ma_so_doi=""    Loai_ban_thang=""   Thoi_Diem=""/>
                 </Danh_sach_ghi_ban>
             </Tran>
-            <Tran Ma_so_tran="V15" Ty_so="">
+            <Tran Ma_so_tran="V15" Doi_1="Hà Nội FC" Doi_2="Hải Phòng" Ngay_gio="11/3/2018" Sân="Hàng Đẫy" Ty_so="1-0">
                 <Danh_sach_ghi_ban>
-                    <Cau_thu Ma_so_cau_thu=""   Ma_so_doi=""    Loai_ban_thang=""   Thoi_Diem=""/>
+                    <Cau_thu STT="1" Ten_cau_thu="Văn Đại Ngân"   Ten_doi="Hà Nội FC"    Loai_ban_thang="A"   Thoi_Diem="69"/>
                 </Danh_sach_ghi_ban>
             </Tran>
-            <Tran Ma_so_tran="V16" Ty_so="">
+            <Tran Ma_so_tran="V16" Doi_1="Khánh Hòa" Doi_2="Thanh Hóa" Ngay_gio="12/3/2018" Sân="19/8" Ty_so="3-1">
                 <Danh_sach_ghi_ban>
-                    <Cau_thu Ma_so_cau_thu=""   Ma_so_doi=""    Loai_ban_thang=""   Thoi_Diem=""/>
+                    <Cau_thu STT="1" Ten_cau_thu="Nguyễn Hoàng Quốc Chí"   Ten_doi="Khánh Hòa"    Loai_ban_thang="A"   Thoi_Diem="12"/>
+                    <Cau_thu STT="2" Ten_cau_thu="Youssouf Toure"   Ten_doi="Khánh Hòa"    Loai_ban_thang="A"   Thoi_Diem="58"/>
+                    <Cau_thu STT="3" Ten_cau_thu="Pape Omar Faye"   Ten_doi="Thanh Hóa"    Loai_ban_thang="C"   Thoi_Diem="67"/>
+                    <Cau_thu STT="4" Ten_cau_thu="Nguyễn Hoàng Quốc Chí"   Ten_doi="Khánh Hòa"    Loai_ban_thang="A"   Thoi_Diem="86"/>
                 </Danh_sach_ghi_ban>
             </Tran>
-            <Tran Ma_so_tran="V17" Ty_so="">
+            <Tran Ma_so_tran="V17" Doi_1="TP.Hồ Chí Minh" Doi_2="Sông Lam Nghệ An" Ngay_gio="12/3/2018" Sân="Thống Nhất" Ty_so="0-2">
                 <Danh_sach_ghi_ban>
-                    <Cau_thu Ma_so_cau_thu=""   Ma_so_doi=""    Loai_ban_thang=""   Thoi_Diem=""/>
+                    <Cau_thu STT="1" Ten_cau_thu="Phan Văn Đức"   Ten_doi="Sông Lam Nghệ An"    Loai_ban_thang="A"   Thoi_Diem="12"/>
+                    <Cau_thu STT="2" Ten_cau_thu="Quế Ngọc Hải"   Ten_doi="Sông Lam Nghệ An"    Loai_ban_thang="A"   Thoi_Diem="45+2"/>
                 </Danh_sach_ghi_ban>
             </Tran>
         </Danh_sach_tran_dau>
